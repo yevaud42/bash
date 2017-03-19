@@ -1,0 +1,5519 @@
+Abynissia
+Mythic Blighted Lands Daemon
+#6170
+ 
+Abyssal Rupture (24 Blue/Yellow/Purple) 
+Explode all Gems of a Chosen Color. Summon a level [Magic] Infernal King.
+(Fireproof, Cursed, Queen's Grace)
+
+MAX Attack:19 Life:32 Armor:15 Magic:13 
+She's the REAL Queen of the Damned.
+ 
+Add to Team 
+
+18
+18
+31
+9
+Death
+Mythic Apocalypse Undead-Daemon
+#6200
+ 
+Danse Macabre (24 Blue/Red/Purple) 
+Death Mark all enemies. Deal [Magic + 11] damage randomly split among enemies, boosted by my Life. [3:1]
+(Necromancy, Doom, Aspect of Death)
+
+MAX Attack:18 Life:18 Armor:31 Magic:9 
+Don't fear the reaper!
+ 
+Add to Team 
+
+22
+16
+25
+3
+Draakulis
+Mythic Ghulvania Undead
+#6169
+ 
+Vampiric Blade (20 Blue/Green/Red) 
+Steal [Magic + 5] Life from all enemies.
+(Warded, Armored, King's Will)
+
+MAX Attack:22 Life:16 Armor:25 Magic:3 
+Holy Mythic Troops, Batman!
+ 
+Add to Team 
+
+16
+19
+34
+7
+Famine
+Mythic Apocalypse Daemon-Mystic
+#6199
+ 
+Locust Swarm (20 Green/Yellow/Brown) 
+Drain Mana from all enemies. Deal [Magic + 5] damage to an enemy, boosted by Mana drained. [2x]
+(Jinx, Reinforced, Aspect of Famine)
+
+MAX Attack:16 Life:19 Armor:34 Magic:7 
+He INVENTED the Hunger Games
+ 
+Add to Team 
+
+17
+19
+32
+4
+Gard's Avatar
+Mythic Whitehelm Divine-Knight
+#6296
+ 
+Gard's Wrath (24 Red/Yellow/Brown) 
+Deal [(Magic / 2) + 2] damage to all enemies, boosted by my Armor. Burn all undead and Silence all daemons. [2:1]
+(Divine Bond, Reinforced, Divine Right)
+
+MAX Attack:17 Life:19 Armor:32 Magic:4 
+He shall smite the wicked.
+ 
+Add to Team 
+
+17
+30
+21
+7
+Jotnar Stormshield
+Mythic Stormheim Divine-Giant
+#6329
+ 
+Thunder Javelin (22 Blue/Red/Yellow) 
+Deal [Magic + 5] true damage to an enemy, boosted by allies with Barrier and Giant allies. [5x]
+(Giant Bond, Huge, Storm Shield)
+
+MAX Attack:17 Life:30 Armor:21 Magic:7 
+He doth bestride the narrow world like a Colossus.
+ 
+Add to Team 
+
+22
+22
+19
+4
+Ketras the Bull
+Mythic Wild Plains Divine-Tauros
+#6339
+ 
+Blood Hunger (24 Green/Red/Brown) 
+Deal [Magic + 4] damage to an enemy, boosted by my Attack, Life and Armor. [2:1]
+(Tauros Bond, Armored, Raging Bull)
+
+MAX Attack:22 Life:22 Armor:19 Magic:4 
+Gives you wings...
+ 
+Add to Team 
+
+18
+17
+32
+8
+Pharos-Ra
+Mythic Khetar Divine-Undead
+#6297
+ 
+Solar Eclipse (24 Blue/Purple/Brown) 
+Transform Yellow Gems to Purple. Deal [Magic + 1] damage to an enemy, boosted by my Souls. Give 20 Souls. [1:1]
+(Undead Bond, Warded, Necro Master)
+
+MAX Attack:18 Life:17 Armor:32 Magic:8 
+Ra, Ra, Pharos-Ra. He's the greatest God by far!
+ 
+Add to Team 
+
+17
+28
+23
+3
+Plague
+Mythic Apocalypse Daemon-Fey
+#6198
+ 
+Outbreak (22 Blue/Green/Purple) 
+Decrease a random skill on all enemies by [Magic + 2], and Disease them.
+(Virulence, Impervious, Aspect of Plague)
+
+MAX Attack:17 Life:28 Armor:23 Magic:3 
+Please state the nature of your medical emergency.
+ 
+Add to Team 
+
+23
+18
+21
+5
+War
+Mythic Apocalypse Daemon-Knight
+#6197
+ 
+Endless Conflict (24 Blue/Red/Brown) 
+Burn all enemies. Deal [Magic + 1] damage to an enemy, boosted by my Attack. [1:1]
+(Pyromania, Armor Piercing, Aspect of War)
+
+MAX Attack:23 Life:18 Armor:21 Magic:5 
+War... Huh... Yeah! What is it good for?
+ 
+Add to Team 
+
+24
+24
+13
+8
+Wulfgarok
+Mythic Maugrim Woods Wargare-Beast
+#6300
+ 
+Fangs and Claws (22 Green/Red/Purple) 
+Deal [Magic + 2] damage to an enemy, boosted by Wargare Allies. If the enemy dies, devour a random enemy. [4x]
+(Invigorated, Impervious, First Wargare)
+
+MAX Attack:24 Life:24 Armor:13 Magic:8 
+The Wulf among us
+ 
+Add to Team 
+
+20
+29
+12
+10
+Abhorath
+Legendary Karakoth Daemon
+#6067
+ 
+Devour the World (15 Blue/Purple) 
+Remove all Gems. Heal to full, and gain [Magic + 1] Attack.
+(Arcane, Huge, Sacrifice)
+
+MAX Attack:20 Life:29 Armor:12 Magic:10 
+The Old Gods are SO last year.
+ 
+Add to Team 
+
+16
+32
+18
+19
+Autumnal Imp
+Legendary Primal Elemental
+#6153
+ 
+Harvester's Moon (12 Brown) 
+Deal [Magic + 3] damage randomly split among enemies, and destroy 10 random Gems. If an enemy dies gain 8 Magic.
+(Elemental Bond, Stone Link, Fall)
+
+MAX Attack:16 Life:32 Armor:18 Magic:19 
+The only weapon he is afraid of is a leaf blower.
+ 
+Add to Team 
+
+16
+27
+22
+6
+Behemoth
+Legendary Pridelands Monster
+#6077
+ 
+Lay Waste (14 Blue/Brown) 
+Deal [Magic + 3] damage to all enemies. Destroy 10 random gems.
+(Siege, Impervious, Immense)
+
+MAX Attack:16 Life:27 Armor:22 Magic:6 
+Ten times as big as a man!
+ 
+Add to Team 
+
+16
+21
+29
+4
+Bone Dragon
+Legendary Khetar Undead-Dragon
+#6129
+ 
+Strip Flesh (14 Purple/Brown) 
+Destroy an enemy's Armor, and create 8 Skulls boosted by Armor destroyed. Gain [Magic] Armor. [3:1]
+(Sturdy, Cursed, Frozen Soul)
+
+MAX Attack:16 Life:21 Armor:29 Magic:4 
+He's cool. Nothing gets under HIS skin.
+ 
+Add to Team 
+
+18
+27
+18
+11
+Borealis
+Legendary Glacial Peaks Dragon
+#6192
+ 
+Blizzard (16 Blue/Yellow) 
+Freeze all enemies. Deal [Magic + 8] damage to a random enemy.
+(Dragon Bond, Insulated, Icy Cloak)
+
+MAX Attack:18 Life:27 Armor:18 Magic:11 
+Winter is coming...
+ 
+Add to Team 
+
+20
+36
+6
+11
+Bunni'Nog
+Legendary Pan's Vale Beast
+#6185
+ 
+Death Awaits (14 Purple/Brown) 
+Deal [Magic + 2] damage to an enemy. Deal double damage if the enemy is a Knight. Gain 4 Attack and Life.
+(Beast Bond, Fast, Nasty Teeth)
+
+MAX Attack:20 Life:36 Armor:6 Magic:11 
+Ohhh! It's just a harmless little bunny isn't it.
+ 
+Add to Team 
+
+16
+19
+32
+8
+Carnex
+Legendary Adana Mech
+#6066
+ 
+Chain Reaction (15 Red/Purple) 
+Explode [Magic + 2] random Skulls. Gain 8 Armor.
+(Armored, Impervious, Spiked Armor)
+
+MAX Attack:16 Life:19 Armor:32 Magic:8 
+Who's just an itty-bitty giant puppy dog?
+ 
+Add to Team 
+
+18
+29
+19
+7
+Celestasia
+Legendary Whitehelm Divine-Dragon
+#6112
+ 
+Radiance (14 Blue/Yellow) 
+Create 8 Gems of a chosen ally's Mana Color. Cleanse and give them [Magic + 2] Life.
+(Dragon Bond, Blessed, Celestial Shield)
+
+MAX Attack:18 Life:29 Armor:19 Magic:7 
+Rumor is that she has a Girl Tattoo.
+ 
+Add to Team 
+
+17
+27
+17
+7
+Crimson Bat
+Legendary Ghulvania Undead-Monster
+#6078
+ 
+Blood Feast (15 Blue/Red) 
+Deal [Magic + 1] True Damage to all enemies. Gain 16 Life.
+(Divine Slayer, Cursed, Bloodsucking)
+
+MAX Attack:17 Life:27 Armor:17 Magic:7 
+He started out as the Red Bat, but found that simply wasn't very scary.
+ 
+Add to Team 
+
+18
+20
+25
+7
+Dark Monolith
+Legendary Blighted Lands Daemon-Construct
+#6306
+ 
+Malice (15 Red/Brown) 
+Deal [Magic + 2] damage to the two weakest enemies. Deal double damage if I am damaged.
+(Daemon Bond, Stoneskin, Absorb Power)
+
+MAX Attack:18 Life:20 Armor:25 Magic:7 
+He'd like to spend a night on Bald Mountain.
+ 
+Add to Team 
+
+17
+16
+30
+8
+DRACOS 1337
+Legendary Adana Mech-Dragon
+#6252
+ 
+Disintegrate (17 Yellow/Purple) 
+Silence, Stun, and drain [Magic + 1] Mana from an enemy, with a 25% chance to destroy them.
+(Mech Bond, Armored, Technomancy)
+
+MAX Attack:17 Life:16 Armor:30 Magic:8 
+Draconic Robot Assistant, Courtesy Of Sparkgrinder...
+ 
+Add to Team 
+
+18
+20
+25
+9
+Emperor Khorvash
+Legendary Leonis Empire Knight-Monster
+#6227
+ 
+Crown of Anu (15 Blue/Brown) 
+Deal [Magic + 3] true damage to the first 2 enemies. Stun them and drain their Mana.
+(Leader, Armored, Lion's Wrath)
+
+MAX Attack:18 Life:20 Armor:25 Magic:9 
+You should see his new clothes.
+ 
+Add to Team 
+
+18
+38
+8
+0
+Forest Guardian
+Legendary Maugrim Woods Divine-Beast
+#6298
+ 
+Nature's Ally (18 Green/Yellow) 
+Transform Purple Gems to Skulls and transform Brown Gems to Green. Allied beasts gain Barrier.
+(Beast Bond, Invigorated, Lord of Beasts)
+
+MAX Attack:18 Life:38 Armor:8 Magic:0 
+He is the life of the Stag Party!
+ 
+Add to Team 
+
+18
+27
+18
+17
+Gar'Nok
+Legendary Grosh-Nak Orc
+#6135
+ 
+To War! (15 Red/Yellow) 
+Deal 1 damage to all other allies, and increase everyone's Attack by 8. Summon a level [Magic] Orc.
+(Avenger, Armored, Orclord)
+
+MAX Attack:18 Life:27 Armor:18 Magic:17 
+He's looking for love in all the wrong places.
+ 
+Add to Team 
+
+18
+25
+20
+4
+Gloom Leaf
+Legendary Forest of Thorns Fey
+#6071
+ 
+Corruption (17 Green/Red) 
+Steal [Magic] Armor and 2 Attack from all enemies. 
+(Defender, Huge, Thorns)
+
+MAX Attack:18 Life:25 Armor:20 Magic:4 
+Emo-tree is not amused.
+ 
+Add to Team 
+
+14
+38
+16
+10
+Goblin King
+Legendary Zaejin Goblin
+#6076
+ 
+Goblin Feast (16 Green/Brown) 
+Gain 5 Life, and remove all Gems of a chosen color to boost the effect. Summon a level [Magic] Goblin. [2:1]
+(Sturdy, Regeneration, Goblord)
+
+MAX Attack:14 Life:38 Armor:16 Magic:10 
+Sadly, Barry Humphries wasn't available for the voice-overs.
+ 
+Add to Team 
+
+16
+27
+22
+8
+Gog and Gud
+Legendary Broken Spire Giant
+#6310
+ 
+Decisions, Decisions (17 Green/Brown) 
+Deal [Magic + 1] damage to the first enemy and spend all my Gold to boost it, OR deal [Magic + 1] damage to all enemies and gain 50 Gold. [1:1]
+(Giant Bond, Huge, Pillage and Plunder)
+
+MAX Attack:16 Life:27 Armor:22 Magic:8 
+Most annoying Boss ever...
+ 
+Add to Team 
+
+16
+31
+18
+6
+Gorgotha
+Legendary Khaziel Daemon
+#6075
+ 
+Doomstones (15 Yellow/Brown) 
+Explode [Magic + 3] random gems. Cleanse myself.
+(Fireproof, Daemonic Pact, Granite Skin)
+
+MAX Attack:16 Life:31 Armor:18 Magic:6 
+He was doing fine until his dreams went up in smoke.
+ 
+Add to Team 
+
+20
+34
+9
+17
+Hydra
+Legendary Wild Plains Monster
+#6143
+ 
+Thousand Bites (16 Blue/Red) 
+Deal [Magic + 8] damage randomly split among enemies, boosted by my missing Life. [2x]
+(Water Heart, Huge, Many Heads)
+
+MAX Attack:20 Life:34 Armor:9 Magic:17 
+He makes the Chimera jealous.
+ 
+Add to Team 
+
+14
+43
+9
+19
+Imp of Love
+Legendary Primal Elemental
+#6177
+ 
+Love Struck (12 Red) 
+Deal [Magic + 3] damage randomly split among enemies. Charm a random enemy. If an enemy dies, gain 8 Magic.
+(Elemental Bond, Fire Link, Compassion)
+
+MAX Attack:14 Life:43 Armor:9 Magic:19 
+Love is a battlefield.
+ 
+Add to Team 
+
+20
+25
+16
+13
+Infernal King
+Legendary Blighted Lands Daemon
+#6183
+ 
+Inferno (18 Yellow/Purple) 
+Transform Green Gems to Skulls and transform Brown Gems to Red. Deal [Magic + 9] damage randomly split among enemies.
+(Fireproof, Aflame, Immortal)
+
+MAX Attack:20 Life:25 Armor:16 Magic:13 
+I shall live forever! Or die trying.
+ 
+Add to Team 
+
+18
+34
+10
+11
+Jarl Firemantle
+Legendary Stormheim Elemental-Giant
+#6080
+ 
+Fire Hammer (15 Red/Brown) 
+Create 9 Red and 9 Yellow Gems, then deal [Magic + 4] damage to an enemy. 
+(Leader, Huge, Fiery Cloak)
+
+MAX Attack:18 Life:34 Armor:10 Magic:11 
+Some Giants just want to watch the world burn.
+ 
+Add to Team 
+
+18
+24
+22
+0
+Keeper of Souls
+Legendary Khetar Undead
+#6074
+ 
+Soul Strike (15 Purple/Brown) 
+Transform all Gems of a chosen color to Skulls.
+(Necromancy, Life Drain, Soul Legion)
+
+MAX Attack:18 Life:24 Armor:22 Magic:0 
+Famed for his part in the Krystara Cup 2014, where he saved 3 goals and devoured the entire opposition team.
+ 
+Add to Team 
+
+19
+33
+12
+13
+Kerberos
+Legendary Maugrim Woods Daemon-Beast
+#6118
+ 
+Underworld (16 Purple/Brown) 
+Deal [Magic + 6] damage to an enemy, with a 50% chance to Devour them.
+(Necromancy, Arcane, Gate Guardian)
+
+MAX Attack:19 Life:33 Armor:12 Magic:13 
+None shall pass!
+ 
+Add to Team 
+
+18
+27
+18
+10
+Kraken
+Legendary Blackhawk Monster
+#6275
+ 
+Depths Below (16 Green/Purple) 
+Deal [Magic + 5] damage to the last 2 enemies. Create 9 Blue Gems. Then there is a 40% chance to devour the last enemy.
+(Thick Head, Huge, Tentacles)
+
+MAX Attack:18 Life:27 Armor:18 Magic:10 
+Please release me...
+ 
+Add to Team 
+
+22
+16
+22
+16
+Kruarg the Dread
+Legendary Grosh-Nak Daemon-Monster
+#6244
+ 
+Abyssal Portal (16 Green/Red) 
+Deal [Magic + 1] damage to the last two enemies. If there are 13 or more Purple gems, summon a random Daemon.
+(Daemon Bond, Regeneration, Voracious)
+
+MAX Attack:22 Life:16 Armor:22 Magic:16 
+The maw the merrier.
+ 
+Add to Team 
+
+18
+20
+25
+8
+Krystenax
+Legendary Silverglade Dragon
+#6328
+ 
+Bejeweled (16 Blue/Green) 
+Deal [Magic + 4] damage to all enemies, boosted by a chosen color and then remove them. Summon a Silver Drakon. [2:1]
+(Flying, Stoneskin, Crystallize)
+
+MAX Attack:18 Life:20 Armor:25 Magic:8 
+Shiny!
+ 
+Add to Team 
+
+18
+22
+24
+5
+Moloch
+Legendary Whitehelm Daemon
+#6072
+ 
+Curse of Weakness (14 Red/Yellow) 
+Drain an enemy's Mana. Deal [Magic + 3] true damage, boosted by Mana drained. [1:1]
+(Fireproof, Fire Link, Suppression)
+
+MAX Attack:18 Life:22 Armor:24 Magic:5 
+Corruption, Digestion, or Immolation? Please state your preference.
+ 
+Add to Team 
+
+18
+23
+23
+17
+Orion
+Legendary Divinion Fields Fey-Centaur
+#6069
+ 
+Wild Hunt (11 Green/Yellow) 
+Deal between (half) - [Magic + 9] damage to an enemy and place a Hunter's Mark. Gain +5 Magic.
+(Siege, Alert, True Shot)
+
+MAX Attack:18 Life:23 Armor:23 Magic:17 
+Wild thing... You pull my bow string!
+ 
+Add to Team 
+
+14
+34
+20
+11
+Psion
+Legendary Darkstone Daemon
+#6151
+ 
+Mind Wipe (15 Blue/Purple) 
+Deal [Magic + 6] true damage randomly split among enemies. Drain 7 Mana from all enemies.
+(Magic Link, Alert, Siphon)
+
+MAX Attack:14 Life:34 Armor:20 Magic:11 
+He can destroy you with his brain.
+ 
+Add to Team 
+
+16
+34
+16
+8
+Queen Mab
+Legendary Glacial Peaks Fey
+#6191
+ 
+Nevermore (15 Blue/Purple) 
+Mana Burn all enemies, boosted by my Magic. If there are 13 or more Blue gems, gain an extra turn.
+(Insulated, Arcane, Winter Veil)
+
+MAX Attack:16 Life:34 Armor:16 Magic:8 
+Once upon a midnight dreary...
+ 
+Add to Team 
+
+20
+20
+23
+4
+Queen Ysabelle
+Legendary Sword's Edge Human-Knight
+#6259
+ 
+Royal Decree (15 Blue/Green) 
+Deal an ally's Attack as damage to the first enemy, then give them [Magic + 1] Attack and Armor. All Allies other than myself gain 3 - 8 Mana. [1:1]
+(Knight Bond, Armored, For the People)
+
+MAX Attack:20 Life:20 Armor:23 Magic:4 
+You might see her one night at the Opera.
+ 
+Add to Team 
+
+16
+36
+14
+7
+Shadow Dragon
+Legendary Sword's Edge Dragon
+#6079
+ 
+Evernight (14 Yellow/Purple) 
+Poison all enemies, and deal [Magic + 1] true damage to a random enemy. Transform all Yellow Gems to Purple to boost the effect. [2:1]
+(Magic Link, Sturdy, Darkfall)
+
+MAX Attack:16 Life:36 Armor:14 Magic:7 
+Likes to appear at night and devour entire villages... just for lolz.
+ 
+Add to Team 
+
+14
+30
+22
+0
+Sheggra
+Legendary Broken Spire Dragon
+#6065
+ 
+Lava Strike (14 Red/Brown) 
+Create 6 Red Gems, then turn all Red Gems to Skulls.
+(Huge, Pyromania, Molten)
+
+MAX Attack:14 Life:30 Armor:22 Magic:0 
+Sheggra won a chili-eating contest, where she not only ate all the chili, but all the contestants as well.
+ 
+Add to Team 
+
+18
+32
+14
+19
+Spooky Imp
+Legendary Primal Elemental
+#6268
+ 
+Trick or Treat (14 Purple) 
+Deal [Magic + 4] damage randomly split among enemies, and either: Transform a random enemy into a level 12 Wraith OR All allies gain 2 Magic.
+(Elemental Bond, Magic Link, Boo!)
+
+MAX Attack:18 Life:32 Armor:14 Magic:19 
+If he only had a brain...
+ 
+Add to Team 
+
+18
+34
+12
+19
+Spring Imp
+Legendary Primal Elemental
+#6194
+ 
+Pollenate (12 Green) 
+Deal [Magic + 3] damage randomly split among enemies. All enemies are Entangled. If an enemy dies gain 8 Magic.
+(Elemental Bond, Nature Link, Seedling)
+
+MAX Attack:18 Life:34 Armor:12 Magic:19 
+She's a real flower child.
+ 
+Add to Team 
+
+20
+25
+11
+19
+Summer Imp
+Legendary Primal Elemental
+#6126
+ 
+Sunburst (12 Yellow) 
+Deal [Magic + 3] damage randomly split among enemies and create 7 Red Gems. If an enemy dies gain 8 Magic.
+(Elemental Bond, Air Link, Sunshine)
+
+MAX Attack:20 Life:25 Armor:11 Magic:19 
+He definitely started the fire...
+ 
+Add to Team 
+
+16
+32
+18
+7
+Sylvanimora
+Legendary Forest of Thorns Dragon
+#6241
+ 
+Tremor (17 Green/Brown) 
+Explode a column. Deal [Magic + 1] damage to all enemies.
+(Dragon Bond, Huge, Dragon Vines)
+
+MAX Attack:16 Life:32 Armor:18 Magic:7 
+If a tree falls in the forest, did a dragon do it?
+ 
+Add to Team 
+
+18
+32
+14
+6
+The Dragon Soul
+Legendary Dragon's Claw Dragon-Mystic
+#6236
+ 
+Fallen Stars (16 Red/Purple) 
+Explode [(Magic / 2) + 3] random Gems. Deal 8 damage to all enemies, boosted by number of Dragon allies. Gain 15 Souls. [3x]
+(Mana Shield, Huge, Possession)
+
+MAX Attack:18 Life:32 Armor:14 Magic:6 
+Definitely not a ginger.
+ 
+Add to Team 
+
+18
+35
+12
+0
+The Great Maw
+Legendary Drifting Sands Monster
+#6160
+ 
+Sandstorm (24 Yellow/Brown) 
+Devour an enemy. Create 8 Yellow Gems and Brown Gems. Can only be cast once.
+(Frenzy, Huge, Hunger)
+
+MAX Attack:18 Life:35 Armor:12 Magic:0 
+Arrakis called. It wants its worm back.
+ 
+Add to Team 
+
+20
+25
+16
+0
+The Silent One
+Legendary Pan's Vale Daemon
+#6073
+ 
+Hush (14 Blue/Yellow) 
+Silence all enemies and himself.
+(Water Link, Daemonic Pact, Silence!)
+
+MAX Attack:20 Life:25 Armor:16 Magic:0 
+...
+ 
+Add to Team 
+
+20
+32
+12
+5
+Venoxia
+Legendary Mist of Scales Dragon
+#6070
+ 
+Noxious Gas (16 Green/Purple) 
+Create 9 Green and 9 Blue Gems, then deal 4 True Damage to all enemies. Gain [Magic] Attack.
+(Nature Brand, Arcane, Miasma)
+
+MAX Attack:20 Life:32 Armor:12 Magic:5 
+Affectionately known to her friends as Ol' Swamp-ass.
+ 
+Add to Team 
+
+18
+32
+14
+3
+Webspinner
+Legendary Zhul'Kari Daemon
+#6068
+ 
+Venom Weave (16 Blue/Green) 
+Deal [Magic] Damage to all enemies and Poison them. Create 9 Green Gems.
+(Sturdy, Snare, Lethal Toxin)
+
+MAX Attack:18 Life:32 Armor:14 Magic:3 
+Looks like she came straight out of Module Q1. If you get that reference, you're HARDCORE.
+ 
+Add to Team 
+
+22
+29
+8
+8
+Winter Imp
+Legendary Primal Elemental
+#6165
+ 
+Frostbite (12 Blue) 
+Deal [Magic + 3] true damage randomly split among enemies, boosted by Blue Gems. If an enemy dies gain 4 Magic. [2:1]
+(Elemental Bond, Water Link, Chill)
+
+MAX Attack:22 Life:29 Armor:8 Magic:8 
+Ice, Ice, Baby.
+ 
+Add to Team 
+
+17
+15
+28
+7
+Alastair
+Epic Khetar Undead-Knight
+#6090
+ 
+Resolve (12 Blue/Red) 
+Give all allies [Magic] Armor, and remove all Purple Gems to boost the effect. Gain Barrier. [3:1]
+(Undead Slayer, Avenger, Armored)
+
+MAX Attack:17 Life:15 Armor:28 Magic:7 
+For a more humane form of dismemberment, flaming axes sever and cauterize in one easy stroke. 
+ 
+Add to Team 
+
+19
+31
+8
+10
+Amira
+Epic Leonis Empire Wargare-Rogue
+#6226
+ 
+Shadow Blades (13 Red/Purple) 
+Deal [Magic + 2] true damage to an enemy and steal 2 Magic. Deal double damage if they use Blue Mana.
+(Mana Shield, Stealthy, Agile)
+
+MAX Attack:19 Life:31 Armor:8 Magic:10 
+A fox is just a wolf who sends flowers.
+ 
+Add to Team 
+
+20
+22
+14
+4
+Anointed One
+Epic Darkstone Human
+#6152
+ 
+Frenzy (12 Blue/Red) 
+Gain [Magic + 1] Attack and Life, and transform all Green Gems to Red to boost the effect. [3:1]
+(Water Brand, Fast, Frenzy)
+
+MAX Attack:20 Life:22 Armor:14 Magic:4 
+I AM. NOT. SPARTACUS.
+ 
+Add to Team 
+
+19
+25
+17
+7
+Atlanta
+Epic Divinion Fields Human-Rogue
+#6085
+ 
+Rain of Arrows (13 Yellow/Purple) 
+Deal [Magic + 2] damage to all enemies.
+(Centaur Slayer, Air Link, Armor Piercing)
+
+MAX Attack:19 Life:25 Armor:17 Magic:7 
+LV 90 HUNTER. FULL EPICS. LFG.
+ 
+Add to Team 
+
+15
+31
+17
+10
+Avina
+Epic Ghulvania Human
+#6094
+ 
+Stake (11 Red/Purple) 
+Deal [Magic + 4] damage to an enemy. Deal triple damage if they are Undead. Gain [Magic + 4] Soul(s).
+(Undead Slayer, Warded, Armor Piercing)
+
+MAX Attack:15 Life:31 Armor:17 Magic:10 
+She's one of the major STAKEholders in the not-for-profit group Humans Against Vampires.
+ 
+Add to Team 
+
+17
+12
+32
+0
+Aziris
+Epic Khetar Undead-Mystic
+#6111
+ 
+Finger of Death (6 Red/Purple) 
+Transform a selected Mana Gem into a Skull. If there are 13 or more Purple gems on the board, gain 6 Mana.
+(Divine Slayer, Necromancy, Magic Link)
+
+MAX Attack:17 Life:12 Armor:32 Magic:0 
+He killed the last living eaglephant to get that helmet.
+ 
+Add to Team 
+
+14
+31
+19
+7
+Barbearius
+Epic Maugrim Woods Wildfolk
+#6125
+ 
+Wallop (11 Green/Red) 
+Explode a gem. Deal [Magic + 5] damage to a random enemy, boosted by each Brown Gem destroyed. [5x]
+(Avenger, Regeneration, Impervious)
+
+MAX Attack:14 Life:31 Armor:19 Magic:7 
+Awww... He just wants a hug.
+ 
+Add to Team 
+
+23
+23
+8
+7
+Bonnie Rose
+Epic Blackhawk Human-Rogue
+#6276
+ 
+Plunder (12 Blue/Red) 
+Deal [Magic + 4] damage to an enemy, boosted by Gold collected. Gain 15 Gold. [2:1]
+(Invigorated, Fast, Water Spirit)
+
+MAX Attack:23 Life:23 Armor:8 Magic:7 
+An' providence shall be her guide.
+ 
+Add to Team 
+
+12
+23
+28
+5
+Brian the Lucky
+Epic Zaejin Human-Knight
+#6092
+ 
+Cheers! (12 Green/Brown) 
+Increase a random skill on all other allies by [Magic + 1].
+(Knight Bond, Goblin Slayer, Alert)
+
+MAX Attack:12 Life:23 Armor:28 Magic:5 
+Cheers!
+ 
+Add to Team 
+
+17
+32
+14
+11
+Bul'Tauros
+Epic Divinion Fields Centaur
+#6109
+ 
+Stampede (11 Red/Yellow) 
+Deal [Magic + 2] damage randomly split among enemies, boosted by my Life. [1:1]
+(Frenzy, Sturdy, Regeneration)
+
+MAX Attack:17 Life:32 Armor:14 Magic:11 
+Large Centaur seeks small China Shop for fun times.
+ 
+Add to Team 
+
+19
+31
+8
+0
+Couatl
+Epic Dragon's Claw Dragon
+#6237
+ 
+Prismatic Tornado (12 Yellow/Purple) 
+Create 12 Gems of a random Color.
+(Dragon Bond, Mana Shield, Agile)
+
+MAX Attack:19 Life:31 Armor:8 Magic:0 
+Rumored to have created Australia.
+ 
+Add to Team 
+
+17
+46
+0
+12
+Cthyryzyx
+Epic Karakoth Daemon
+#6121
+ 
+Insanity (11 Blue/Purple) 
+Deal 3-[Magic + 8] damage to a random enemy. Increase a random Skill by 8, then a 50% chance to Jumble the board.
+(Defender, Jinx, Death Touch)
+
+MAX Attack:17 Life:46 Armor:0 Magic:12 
+That is not dead which can eternal lie, and with strange aeons even death may die.
+ 
+Add to Team 
+
+15
+31
+17
+10
+Dark Song
+Epic Grosh-Nak Orc
+#6134
+ 
+Mojo (13 Green/Purple) 
+Deal [Magic + 6] damage to an enemy. Deal double damage if they use Green Mana.
+(Magic Link, Jinx, Nature Spirit)
+
+MAX Attack:15 Life:31 Armor:17 Magic:10 
+Her headwear is a lethal weapon.
+ 
+Add to Team 
+
+17
+31
+12
+6
+Dark Troll
+Epic Karakoth Elemental-Giant
+#6288
+ 
+Engulf (11 Red/Brown) 
+Double the number of Purple Gems on the Board. Gain [Magic + 3] Soul(s). [1:1]
+(Elemental Bond, Warded, Death Touch)
+
+MAX Attack:17 Life:31 Armor:12 Magic:6 
+He likes his memes as dank as possible
+ 
+Add to Team 
+
+21
+29
+7
+5
+Desdaemona
+Epic Blighted Lands Daemon-Rogue
+#6269
+ 
+Spite and Malice (13 Green/Red) 
+Deal [Magic + 2] true damage to an enemy. Deal double damage if they use Yellow Mana. Gain an extra turn if they are a Daemon.
+(Daemon Slayer, Stealthy, Armor Piercing)
+
+MAX Attack:21 Life:29 Armor:7 Magic:5 
+There's a rumor she starts at level 90.
+ 
+Add to Team 
+
+19
+25
+15
+10
+Dimetraxia
+Epic Darkstone Dragon
+#6150
+ 
+Pyroblast (13 Red/Yellow) 
+Deal [Magic + 4] damage randomly split among enemies, with a 25% chance to Burn everyone.
+(Dragon Bond, Fireproof, Pyromania)
+
+MAX Attack:19 Life:25 Armor:15 Magic:10 
+Do not meddle in the affairs of dragons.
+ 
+Add to Team 
+
+14
+32
+17
+17
+Dokkalfar
+Epic Zhul'Kari Elf-Mystic
+#6122
+ 
+Dark Swarm (13 Purple/Brown) 
+Deal 10 damage randomly split among enemies. Summon a level [Magic] Giant Spider.
+(Sturdy, Slippery, Daemonic Pact)
+
+MAX Attack:14 Life:32 Armor:17 Magic:17 
+Lack of chocolate is the root of all evil.
+ 
+Add to Team 
+
+21
+25
+10
+10
+Dragon Cruncher
+Epic Drifting Sands Giant
+#6212
+ 
+Munch (12 Green/Red) 
+Deal [Magic + 4] damage to an enemy and double damage if they are an Elemental. Gain 5 Life. There is also a 50% chance to devour Dragons.
+(Dragon Slayer, Big, Impervious)
+
+MAX Attack:21 Life:25 Armor:10 Magic:10 
+The other Ogres just call him Cap'n...
+ 
+Add to Team 
+
+14
+37
+12
+10
+Elf-Eater
+Epic Grosh-Nak Giant
+#6119
+ 
+Crunch (12 Blue/Brown) 
+Deal [Magic + 4] damage to an enemy and double damage if they are Fey. Gain 5 Life. There is also a 50% chance to devour Elves.
+(Elf Slayer, Stone Brand, Regeneration)
+
+MAX Attack:14 Life:37 Armor:12 Magic:10 
+Elves - the sixth basic food group.
+ 
+Add to Team 
+
+15
+29
+19
+8
+Elwyn
+Epic Pan's Vale Human
+#6089
+ 
+Power Chord (12 Green/Yellow) 
+Destroy a row and column. Deal [Magic + 6] damage to a random enemy, boosted by Yellow Gems destroyed. [3x]
+(Greedy, Fey Slayer, Alert)
+
+MAX Attack:15 Life:29 Armor:19 Magic:8 
+What do you call a group of bards in full plate armor? Heavy metal.
+ 
+Add to Team 
+
+15
+29
+17
+9
+Emperina
+Epic Khaziel Dragon
+#6091
+ 
+Breath of Life (14 Red/Brown) 
+Give an ally [Magic] Life and Attack, then Cleanse and Heal them.
+(Dwarf Slayer, Fire Link, Aflame)
+
+MAX Attack:15 Life:29 Armor:17 Magic:9 
+Dragons and Dwarves go together like whales and plankton.
+ 
+Add to Team 
+
+15
+31
+17
+7
+Faunessa
+Epic Pan's Vale Wildfolk-Mystic
+#6154
+ 
+Beguile (8 Yellow/Purple) 
+Deal damage to an enemy equal to their Attack. Gain [Magic] Life. [1:1]
+(Magic Link, Alert, Empowered)
+
+MAX Attack:15 Life:31 Armor:17 Magic:7 
+It's all faun and games...
+ 
+Add to Team 
+
+19
+27
+12
+10
+Fel'Dras
+Epic Grosh-Nak Orc
+#6260
+ 
+Primal Arrow (13 Blue/Red) 
+Deal [Magic + 1] damage to an enemy, boosted by all enemy Magic. If there are 13 or more Red Gems, summon an Armored Boar. [3:1]
+(Orc Bond, Mystic Slayer, Armor Piercing)
+
+MAX Attack:19 Life:27 Armor:12 Magic:10 
+Take an Orc on the wild side.
+ 
+Add to Team 
+
+17
+31
+12
+4
+Fenrir
+Epic Maugrim Woods Wargare-Beast
+#6162
+ 
+Call of the Pack (12 Blue/Green) 
+Give an ally [Magic + 2] Attack and Life. Double the effect if ally is a Beast.
+(Beast Bond, Leader, Nature Spirit)
+
+MAX Attack:17 Life:31 Armor:12 Magic:4 
+Who's afraid of this Big Bad Wolf?
+ 
+Add to Team 
+
+19
+28
+10
+10
+Ferit
+Epic Karakoth Human-Rogue
+#6083
+ 
+Backstab (10 Purple/Brown) 
+Deal [Magic + 5] damage to the last enemy, and drain their Mana.
+(Daemon Slayer, Magic Link, Arcane)
+
+MAX Attack:19 Life:28 Armor:10 Magic:10 
+Sanity is merely madness put to good use. 
+ 
+Add to Team 
+
+12
+38
+15
+9
+Finley
+Epic Pridelands Human
+#6093
+ 
+Fair Trade (10 Green/Yellow) 
+Transform all Skulls to Gems of a chosen Color. Gain [Magic + 5] gold.
+(Human Bond, Merchant, Alert)
+
+MAX Attack:12 Life:38 Armor:15 Magic:9 
+For a merchant, even honesty is a financial speculation. 
+ 
+Add to Team 
+
+15
+23
+24
+6
+Ghiralee
+Epic Adana Human
+#6171
+ 
+Reverse Engineering (14 Blue/Yellow) 
+Deal 10 damage to an enemy, and steal [Magic + 1] from a random Skill. Deal double damage vs Mechs.
+(Mech Slayer, Mech Bond, Reinforced)
+
+MAX Attack:15 Life:23 Armor:24 Magic:6 
+Everything's shiny, Cap'n.
+ 
+Add to Team 
+
+17
+31
+12
+10
+Gob-Chomper
+Epic Broken Spire Giant
+#6173
+ 
+Chomp (12 Yellow/Brown) 
+Deal [Magic + 4] damage to an enemy and double damage if they are a Monster. Gain 5 Life. There is also a 50% chance to devour Goblins.
+(Goblin Slayer, Big, Empowered)
+
+MAX Attack:17 Life:31 Armor:12 Magic:10 
+His mom always TOLD him to eat his greens...
+ 
+Add to Team 
+
+19
+25
+15
+8
+Grand Inquisitor
+Epic Whitehelm Divine-Human
+#6248
+ 
+Rites of Faith (13 Red/Yellow) 
+Deal [Magic + 4] damage to an enemy, boosted by the number of Whitehelm allies. Gain Barrier. [5x]
+(Divine Bond, Daemon Slayer, Air Spirit)
+
+MAX Attack:19 Life:25 Armor:15 Magic:8 
+Fetch the comfy chair!
+ 
+Add to Team 
+
+12
+32
+20
+0
+Green Seer
+Epic Forest of Thorns Fey
+#6124
+ 
+Augury (10 Yellow/Purple) 
+Transform a selected Mana color to Green. Entangle a random enemy.
+(Fey Bond, Blessed, Alert)
+
+MAX Attack:12 Life:32 Armor:20 Magic:0 
+The future isn't what it used to be.
+ 
+Add to Team 
+
+17
+44
+0
+5
+Green Slime
+Epic Karakoth Elemental-Monster
+#6163
+ 
+Sludge (11 Blue/Green) 
+Create 5 Green Gems, then turn all Green Gems to Purple. Increase a random Skill by [Magic + 2].
+(Nature Link, Sturdy, Jinx)
+
+MAX Attack:17 Life:44 Armor:0 Magic:5 
+I've seen enough tentacles to know where this is heading...
+ 
+Add to Team 
+
+19
+27
+12
+5
+Hellcat
+Epic Blighted Lands Daemon-Beast
+#6216
+ 
+Horrid Strike (12 Yellow/Purple) 
+Transform a selected Mana color to Red. Deal [Magic + 1] damage to a random enemy.
+(Daemon Bond, Fireproof, Aflame)
+
+MAX Attack:19 Life:27 Armor:12 Magic:5 
+This hellcat is no patsy...
+ 
+Add to Team 
+
+19
+19
+22
+5
+Herald of Chaos
+Epic Blighted Lands Daemon-Knight
+#6182
+ 
+Hex Blade (14 Purple/Brown) 
+Destroy a row. Deal [Magic + 1] damage to the first enemy and reduce a random Skill by [Magic + 1], boosted by Blue Gems destroyed. [2x]
+(Leader, Armored, Death Touch)
+
+MAX Attack:19 Life:19 Armor:22 Magic:5 
+One hell of a Knight.
+ 
+Add to Team 
+
+17
+23
+21
+6
+Ice Golem
+Epic Glacial Peaks Elemental-Construct
+#6284
+ 
+Ice Blast (13 Blue/Brown) 
+Explode a gem. Freeze a random enemy for every Blue Gem destroyed. Gain [Magic + 2] Life. [1:1]
+(Construct Bond, Chill Touch, Stoneskin)
+
+MAX Attack:17 Life:23 Armor:21 Magic:6 
+Let's kick some ice!
+ 
+Add to Team 
+
+14
+34
+17
+11
+Ice Witch
+Epic Stormheim Fey-Mystic
+#6108
+ 
+Aura of Ice (10 Yellow/Purple) 
+Deal [Magic + 4] damage to an enemy. The enemy is Frozen. Your allies gain 1 Magic if the enemy dies.
+(Magic Link, Alert, Arcane)
+
+MAX Attack:14 Life:34 Armor:17 Magic:11 
+She wanted to move somewhere warmer, but she didn't want to ask us to 'Make her a Sand Witch'.
+ 
+Add to Team 
+
+17
+31
+12
+8
+Ifrit
+Epic Drifting Sands Elemental
+#6158
+ 
+Burning Sands (13 Red/Yellow) 
+Deal [Magic + 8] damage randomly split among enemies. Burn a random enemy.
+(Fire Link, Insulated, Aflame)
+
+MAX Attack:17 Life:31 Armor:12 Magic:8 
+He even has his own festival.
+ 
+Add to Team 
+
+17
+32
+10
+12
+Keghammer
+Epic Stormheim Dwarf
+#6096
+ 
+Giant Slayer (12 Yellow/Brown) 
+Deal [Magic + 4] damage to an enemy, and reduce their Magic by 5. Deal double damage if they are a Giant.
+(Dwarf Bond, Giant Slayer, Empowered)
+
+MAX Attack:17 Life:32 Armor:10 Magic:12 
+He's here to drink ale and slay Giants, and he's all out of ale.
+ 
+Add to Team 
+
+17
+36
+8
+5
+Lady Anariel
+Epic Forest of Thorns Elf-Mystic
+#6239
+ 
+Elven Star (12 Blue/Purple) 
+Create 8 Blue and 8 Green Gems. All allies gain [Magic + 1] Life.
+(Elf Bond, Mana Shield, Nature Spirit)
+
+MAX Attack:17 Life:36 Armor:8 Magic:5 
+Nay, to name a single strand of your hair...
+ 
+Add to Team 
+
+15
+21
+27
+12
+Lady Ironbeard
+Epic Khaziel Dwarf-Knight
+#6308
+ 
+Shield Bash (12 Blue/Brown) 
+Deal [Magic + 1] damage to an enemy. If my Armor is greater, triple the damage. Gain 5 Armor.
+(Dwarf Bond, Reinforced, Armored)
+
+MAX Attack:15 Life:21 Armor:27 Magic:12 
+Judge me by my size, do you?
+ 
+Add to Team 
+
+17
+31
+12
+10
+Lady Sapphira
+Epic Whitehelm Undead
+#6088
+ 
+Blood Thief (13 Yellow/Brown) 
+Deal [Magic + 1] True Damage to an enemy. Gain 4 Life and 2 Attack.
+(Cursed, Life Drain, Chill Touch)
+
+MAX Attack:17 Life:31 Armor:12 Magic:10 
+Not all vampires are evil, some are just crazy.
+ 
+Add to Team 
+
+19
+29
+10
+0
+Lil' Johnny Bronze
+Epic Blackhawk Human-Rogue
+#6274
+ 
+Hook Me Up (12 Yellow/Brown) 
+Create 8 Skulls, plus 4 more for every Treasure Map collected. 20% chance to gain a Treasure Map. [4x]
+(Greedy, Merchant, Impervious)
+
+MAX Attack:19 Life:29 Armor:10 Magic:0 
+Once you go Bronze, you never go back!
+ 
+Add to Team 
+
+19
+26
+17
+9
+Lord Ironbeard
+Epic Khaziel Dwarf
+#6255
+ 
+Heroic Deeds (12 Blue/Yellow) 
+Deal [Magic + 2] damage to an enemy. Deal triple damage if they use Red Mana.
+(Dwarf Bond, Monster Slayer, Stoneskin)
+
+MAX Attack:19 Life:26 Armor:17 Magic:9 
+We heard there's a Dwarf shortage.
+ 
+Add to Team 
+
+15
+29
+19
+6
+Luther
+Epic Broken Spire Human-Knight
+#6081
+ 
+Call to Arms (11 Blue/Brown) 
+Give all allies [Magic + 2] Attack.
+(Leader, Grudge, Armored)
+
+MAX Attack:15 Life:29 Armor:19 Magic:6 
+Why do all the good guys always end up in exile?
+ 
+Add to Team 
+
+17
+31
+12
+10
+Marid
+Epic Drifting Sands Human-Rogue
+#6159
+ 
+Dirty Trick (13 Blue/Brown) 
+Deal [Magic + 5] damage to an enemy and cause a random status effect. 20% chance to also gain a Treasure Map.
+(Merchant, Stone Link, Stealthy)
+
+MAX Attack:17 Life:31 Armor:12 Magic:10 
+Tyri's brother... that is all.
+ 
+Add to Team 
+
+23
+23
+8
+8
+Marilith
+Epic Mist of Scales Daemon-Naga
+#6202
+ 
+Sword Dance (12 Green/Red) 
+Deal 6 true damage to all enemies. Destroy [Magic + 3] random Gems. Gain 6 Attack.
+(Siege, Fire Link, Frenzy)
+
+MAX Attack:23 Life:23 Armor:8 Magic:8 
+Hoping one day for a promotion to Type VI.
+ 
+Add to Team 
+
+15
+29
+19
+9
+Mercy
+Epic Whitehelm Divine
+#6167
+ 
+Divine Grace (12 Blue/Green) 
+Give [Magic] Life to the weakest Ally, transform Purple Gems to Yellow to boost the effect. Cleanse all allies. [3:1]
+(Divine Bond, Blessed, Empowered)
+
+MAX Attack:15 Life:29 Armor:19 Magic:9 
+At this hour, lie at my mercy all mine enemies.
+ 
+Add to Team 
+
+17
+23
+21
+7
+Mongo
+Epic Wild Plains Tauros
+#6341
+ 
+Random Crash (13 Yellow/Brown) 
+Something random happens.
+(Clobber, Big, Impervious)
+
+MAX Attack:17 Life:23 Armor:21 Magic:7 
+Your Mongo Database is unavailable.
+ 
+Add to Team 
+
+15
+15
+31
+6
+Morthani's Will
+Epic Ghulvania Divine-Undead
+#6205
+ 
+Spirit Sword (11 Blue/Purple) 
+Steal [Magic + 2] Armor from an enemy and deal 4 true damage. Drain their mana and gain half of it. [2:1]
+(Inscribed, Reinforced, Armored)
+
+MAX Attack:15 Life:15 Armor:31 Magic:6 
+Where there's a will, there's a way...
+ 
+Add to Team 
+
+17
+36
+8
+0
+Night Hag
+Epic Darkstone Undead-Mystic
+#6292
+ 
+Hag's Curse (13 Blue/Purple) 
+Either: Halve an enemy's Attack, OR Halve an enemy's Magic, OR Transform an enemy into a level 12 Giant Toad. [2:1]
+(Mystic Bond, Cursed, Warded)
+
+MAX Attack:17 Life:36 Armor:8 Magic:0 
+Suffering is one of life's greatest teachers.
+ 
+Add to Team 
+
+17
+33
+10
+4
+Nobend Brothers
+Epic Zaejin Goblin-Rogue
+#6204
+ 
+Go Crazy (13 Red/Brown) 
+Gain an extra turn, and either: All enemies lose [Magic + 2] Attack, OR Deal [Magic + 2] damage to all enemies, OR Explode [Magic + 2] random Gems.
+(Fire Heart, Jinx, Agile)
+
+MAX Attack:17 Life:33 Armor:10 Magic:4 
+All for fun, and fun for all!
+ 
+Add to Team 
+
+19
+17
+23
+8
+Pride Guard
+Epic Leonis Empire Raksha-Knight
+#6228
+ 
+Break the Line (12 Green/Red) 
+Deal [Magic + 2] damage to an enemy, boosted by all ally Armor. [4:1]
+(Raksha Bond, Alert, Armored)
+
+MAX Attack:19 Life:17 Armor:23 Magic:8 
+In the jungle, the mighty jungle...
+ 
+Add to Team 
+
+17
+36
+8
+14
+Princess Elspeth
+Epic Silverglade Elf
+#6326
+ 
+Royal Demand (12 Blue/Yellow) 
+Create 11 Gems of a chosen ally's Mana Color and kill them. Summon a random Knight.
+(Greedy, Mana Shield, Empowered)
+
+MAX Attack:17 Life:36 Armor:8 Magic:14 
+But first let me take a #Elfie
+ 
+Add to Team 
+
+19
+27
+12
+5
+Ragnagord
+Epic Divinion Fields Wildfolk
+#6105
+ 
+Blitz 'Em (14 Red/Brown) 
+Explode [Magic + 2] random Gems of a chosen color.
+(Wildfolk Bond, Fast, Fire Spirit)
+
+MAX Attack:19 Life:27 Armor:12 Magic:5 
+Now Crusher! Now Basher! Now, Smasher and Killem! On, Mugger! On, Thugger! On, Psycho and Blitzem!
+ 
+Add to Team 
+
+17
+31
+12
+14
+Raven
+Epic Mist of Scales Human-Rogue
+#6086
+ 
+Final Strike (10 Blue/Red) 
+Deal [Magic + 3] damage to an enemy. Gain most of the Mana back and an extra turn if the enemy dies.
+(Naga Slayer, Stealthy, Water Spirit)
+
+MAX Attack:17 Life:31 Armor:12 Magic:14 
+Nevermore...
+ 
+Add to Team 
+
+17
+19
+25
+0
+Rock Troll
+Epic Khaziel Elemental-Giant
+#6238
+ 
+Rock Smash (10 Red/Purple) 
+Double the number of Brown Gems on the Board. [1:1]
+(Indigestible, Knockout, Stoneskin)
+
+MAX Attack:17 Life:19 Armor:25 Magic:0 
+It's still Rock & Troll to me!
+ 
+Add to Team 
+
+17
+23
+19
+6
+Rowanne
+Epic Forest of Thorns Fey
+#6087
+ 
+Thorns (12 Blue/Green) 
+Deal [Magic + 3] damage randomly split among enemies, boosted by my Armor. [2x]
+(Nature Heart, Water Spirit, Reinforced)
+
+MAX Attack:17 Life:23 Armor:19 Magic:6 
+One day she'll be a REAL boy!
+ 
+Add to Team 
+
+19
+29
+10
+7
+Salamander
+Epic Pridelands Elemental-Beast
+#6164
+ 
+Scorching Blast (13 Green/Red) 
+Deal [Magic + 4] damage to an enemy and Burn them.
+(Elemental Bond, Pyromania, Fireproof)
+
+MAX Attack:19 Life:29 Armor:10 Magic:7 
+Marshmallows not included.
+ 
+Add to Team 
+
+15
+33
+15
+14
+Scarlett
+Epic Maugrim Woods Human-Knight
+#6117
+ 
+Beast Slayer (12 Green/Red) 
+Deal [Magic + 5] damage to an enemy. Deal triple damage if they are a Beast.
+(Beast Slayer, Fire Spirit, Armored)
+
+MAX Attack:15 Life:33 Armor:15 Magic:14 
+To grandma's house we go.
+ 
+Add to Team 
+
+17
+36
+8
+0
+Sea Troll
+Epic Darkstone Elemental-Giant
+#6176
+ 
+Drown (10 Green/Purple) 
+Double the number of Blue Gems on the Board. [1:1]
+(Giant Bond, Immune, Regeneration)
+
+MAX Attack:17 Life:36 Armor:8 Magic:0 
+Things are much better down where it's wetter!
+ 
+Add to Team 
+
+21
+28
+7
+7
+Shadow-Hunter
+Epic Pridelands Raksha-Rogue
+#6106
+ 
+Shadow Strike (13 Blue/Purple) 
+Deal [Magic + 4] damage to the healthiest enemy, boosted by all enemy Life. [3:1]
+(Water Link, Magic Spirit, Agile)
+
+MAX Attack:21 Life:28 Armor:7 Magic:7 
+Curiosity never killed THIS cat.
+ 
+Add to Team 
+
+17
+17
+27
+7
+Sir Snothelm
+Epic Zaejin Goblin-Knight
+#6278
+ 
+Achoo! (13 Blue/Green) 
+Deal [Magic + 3] damage to an enemy. Web and Entangle them. Gain an extra turn.
+(Immune, Virulence, Armored)
+
+MAX Attack:17 Life:17 Armor:27 Magic:7 
+A different kind of boogy man.
+ 
+Add to Team 
+
+19
+15
+25
+2
+Skeleros
+Epic Wild Plains Undead-Tauros
+#6144
+ 
+Bone Crusher (13 Red/Purple) 
+Double the number of Skulls on the Board. [1:1]
+(Undead Bond, Magic Brand, Reinforced)
+
+MAX Attack:19 Life:15 Armor:25 Magic:2 
+He's got no beef with anybody.
+ 
+Add to Team 
+
+12
+25
+27
+6
+Sparkgrinder
+Epic Adana Dwarf
+#6082
+ 
+Upgrade (12 Red/Yellow) 
+Give an ally [Magic + 3] Attack and Armor. Double the effect if Ally is a Mech.
+(Elemental Slayer, Mech Bond, Reinforced)
+
+MAX Attack:12 Life:25 Armor:27 Magic:6 
+If it's not broke, fix it anyway!
+ 
+Add to Team 
+
+18
+28
+18
+6
+Sunweaver
+Epic Wild Plains Undead-Tauros
+#6142
+ 
+Ancient's Glory (13 Blue/Yellow) 
+Increase Attack, Armor and Life of an Ally by [Magic + 2]. Ally also gains 6 Mana.
+(Monster Slayer, Jinx, Water Spirit)
+
+MAX Attack:18 Life:28 Armor:18 Magic:6 
+If she were still alive, she might have a chance at the no-bull peace prize.
+ 
+Add to Team 
+
+15
+36
+12
+7
+Swamplash
+Epic Mist of Scales Monster
+#6145
+ 
+Twisting Vines (12 Green/Brown) 
+Deal [Magic + 6] damage to an enemy troop. Deal double damage if the enemy is entangled. Entangle the enemy.
+(Monster Bond, Nature Link, Huge)
+
+MAX Attack:15 Life:36 Armor:12 Magic:7 
+You thought they only smelt bad on the outside.
+ 
+Add to Team 
+
+17
+32
+9
+4
+Sylvasi
+Epic Pan's Vale Fey-Wildfolk
+#6104
+ 
+Mischief (13 Green/Red) 
+Steal [Magic] Attack from an enemy, and transform all Blue Gems to Purple to boost the effect. [3:1]
+(Nature Brand, Stealthy, Avenger)
+
+MAX Attack:17 Life:32 Armor:9 Magic:4 
+His Mischief is definitely NOT Managed.
+ 
+Add to Team 
+
+17
+29
+15
+9
+Tal'Rae
+Epic Zhul'Kari Elf-Mystic
+#6208
+ 
+Witch Strike (12 Blue/Red) 
+Deal [Magic + 6] damage to an enemy troop. Deal double damage if the enemy is Webbed. Web the enemy.
+(Sturdy, Stalker, Arcane)
+
+MAX Attack:17 Life:29 Armor:15 Magic:9 
+Something wicked this way comes...
+ 
+Add to Team 
+
+14
+17
+32
+14
+Tankbot 2000
+Epic Adana Mech
+#6120
+ 
+Gear Strike (11 Red/Brown) 
+Steal 4 Armor from an enemy and deal [Magic + 3] damage.
+(Fire Brand, Reinforced, Stoneskin)
+
+MAX Attack:14 Life:17 Armor:32 Magic:14 
+Big, destructive, AND can tell the time!
+ 
+Add to Team 
+
+12
+39
+12
+6
+Tassarion
+Epic Glacial Peaks Elf-Mystic
+#6190
+ 
+Forbidden Lore (18 Yellow/Purple) 
+Create [Magic + 3] Gems of a selected Mana color. All other allies gain 3 Magic. Can only be cast once.
+(Elf Bond, Inscribed, Arcane)
+
+MAX Attack:12 Life:39 Armor:12 Magic:6 
+It is one thing to be clever and another to be wise.
+ 
+Add to Team 
+
+17
+31
+12
+7
+Tau
+Epic Sword's Edge Raksha
+#6095
+ 
+Stalk Prey (11 Blue/Yellow) 
+Deal [Magic + 5] damage to an enemy. If the enemy dies, gain 4 to all Skills.
+(Knight Slayer, Dragon Slayer, Empowered)
+
+MAX Attack:17 Life:31 Armor:12 Magic:7 
+He will fight anything... any time... anywhere. We've all got a friend like that. 
+ 
+Add to Team 
+
+19
+29
+12
+6
+Terraxis
+Epic Broken Spire Daemon
+#6123
+ 
+Petrify (13 Red/Yellow) 
+Deal [Magic + 1] damage to all enemies, and transform Blue Gems to Brown to boost the effect. [2:1]
+(Siege, Fire Link, Stone Spirit)
+
+MAX Attack:19 Life:29 Armor:12 Magic:6 
+The Dark Lord called - he wants his eye back.
+ 
+Add to Team 
+
+15
+21
+27
+5
+The Silvermaiden
+Epic Silverglade Elf-Knight
+#6327
+ 
+Glorious Dawn (12 Blue/Purple) 
+Cleanse and Barrier myself. Destroy a row, Gain [Magic + 1] Armor and Life, boosted by Yellow Gems destroyed. [1:1]
+(Leader, Avenger, Holy Armor)
+
+MAX Attack:15 Life:21 Armor:27 Magic:5 
+Keep calm and ride a unicorn.
+ 
+Add to Team 
+
+21
+25
+10
+9
+Tyri
+Epic Zhul'Kari Elf-Rogue
+#6084
+ 
+Treasure Hunt (8 Green/Purple) 
+Destroy [Magic + 4] Gems of a chosen Color. Gain 5 Gold, with a 20% chance to also gain a Treasure Map.
+(Greedy, Stealthy, Arcane)
+
+MAX Attack:21 Life:25 Armor:10 Magic:9 
+Diamonds may be a girl's best friend, but emeralds and rubies will do in a pinch.
+ 
+Add to Team 
+
+15
+23
+25
+12
+Valor
+Epic Sword's Edge Divine-Knight
+#6168
+ 
+Heroism (13 Blue/Red) 
+Deal [Magic + 3] damage to an enemy. Deal double damage if the enemy is a Daemon. If the enemy dies, give a random Ally 8 Life.
+(Divine Bond, Daemon Slayer, Armored)
+
+MAX Attack:15 Life:23 Armor:25 Magic:12 
+Fools rush in where he fears to tread.
+ 
+Add to Team 
+
+15
+29
+19
+7
+Venbarak
+Epic Blighted Lands Dragon
+#6184
+ 
+Breath of Decay (13 Blue/Purple) 
+Deal [Magic + 1] damage to all enemies. 30% chance to Disease all enemies.
+(Immune, Magic Link, Virulence)
+
+MAX Attack:15 Life:29 Armor:19 Magic:7 
+Stars, hide your fires; Let not light see my black and deep desires.
+ 
+Add to Team 
+
+19
+17
+23
+8
+Visk
+Epic Dragon's Claw Dragon-Knight
+#6235
+ 
+Flametongue (13 Blue/Red) 
+Deal [Magic + 1] damage to an enemy. Deal [Magic + 1] bonus damage to all enemies that use Yellow Mana and Burn them.
+(Fireproof, Aflame, Stoneskin)
+
+MAX Attack:19 Life:17 Armor:23 Magic:8 
+My name is Visk... Viskandarius-y-Amon
+ 
+Add to Team 
+
+19
+27
+12
+12
+Werewolf
+Epic Ghulvania Monster-Beast
+#6294
+ 
+Full Moon (14 Purple/Brown) 
+Deal [Magic + 6] damage to an enemy, and convert all Purple Gems to Blue to boost the effect. Transform into a Villager. [1:1]
+(Cursed, Regeneration, Agile)
+
+MAX Attack:19 Life:27 Armor:12 Magic:12 
+Don't mention Team Jacob...
+ 
+Add to Team 
+
+14
+39
+10
+12
+Wild Fang
+Epic Wild Plains Wildfolk
+#6175
+ 
+Primal Fury (11 Blue/Red) 
+Deal [Magic + 4] damage to a random enemy. Deal triple damage if they are a Centaur.
+(Centaur Slayer, Fast, Armored)
+
+MAX Attack:14 Life:39 Armor:10 Magic:12 
+You make my heart sting...
+ 
+Add to Team 
+
+17
+31
+12
+10
+Zephyros
+Epic Stormheim Elemental-Giant
+#6166
+ 
+Lightning Bolt (12 Blue/Yellow) 
+Destroy a Column. Deal [Magic + 5] damage randomly split among enemies, boosted by Yellow Gems destroyed. [3x]
+(Giant Bond, Air Link, Air Spirit)
+
+MAX Attack:17 Life:31 Armor:12 Magic:10 
+Lightning Bolt, Lightning Bolt, Lightning Bolt.
+ 
+Add to Team 
+
+19
+22
+13
+14
+Ancient Horror
+Ultra-Rare Karakoth Daemon
+#6011
+ 
+Daemonic Feast (10 Purple/Brown) 
+Deal [Magic + 3] damage to an enemy. Gain 6 to a random Skill if the enemy dies.
+(Cursed, Magic Link, Stone Spirit)
+
+MAX Attack:19 Life:22 Armor:13 Magic:14 
+Forget those new-age horrors - they've got nothing on the ancient ones.
+ 
+Add to Team 
+
+15
+24
+19
+14
+Anubite Warrior
+Ultra-Rare Khetar Monster-Mystic
+#6210
+ 
+Seal the Tomb (13 Yellow/Brown) 
+Summon a level [Magic] Fortress Gate. All allies gain 1 Armor, and remove all Skulls to boost the effect. [1:1]
+(Warded, Defender, Life Drain)
+
+MAX Attack:15 Life:24 Armor:19 Magic:14 
+He's been around for centuries, so stop calling him a-NOOB-ite.
+ 
+Add to Team 
+
+13
+29
+19
+0
+Apothecary
+Ultra-Rare Khaziel Dwarf-Mystic
+#6256
+ 
+Stone Draught (12 Blue/Green) 
+Transform a selected Mana color to Brown. Cleanse all allies.
+(Sturdy, Merchant, Stone Heart)
+
+MAX Attack:13 Life:29 Armor:19 Magic:0 
+More than meets the eye...
+ 
+Add to Team 
+
+18
+31
+8
+5
+Astral Spirit
+Ultra-Rare Divinion Fields Undead-Centaur
+#6218
+ 
+Astral Burst (11 Blue/Yellow) 
+Remove all Gems of a chosen color. Deal [Magic + 2] true damage to the first enemy, boosted by Gems removed. [3:1]
+(Warded, Centaur Bond, Empowered)
+
+MAX Attack:18 Life:31 Armor:8 Magic:5 
+She likes to be in the dead centaur.
+ 
+Add to Team 
+
+16
+42
+6
+12
+Berserker
+Ultra-Rare Stormheim Giant
+#6061
+ 
+Berserk! (12 Blue/Red) 
+Deal (half) - [Magic + 8] damage to an enemy. Take 2 damage and gain 4 Attack.
+(Frenzy, Big, Regeneration)
+
+MAX Attack:16 Life:42 Armor:6 Magic:12 
+We are all born crazy. Some of us remain that way. 
+ 
+Add to Team 
+
+15
+34
+15
+0
+Black Beast
+Ultra-Rare Zaejin Beast
+#6047
+ 
+All You Can Eat (12 Green/Brown) 
+Devour an ally, Heal, and create 6 Skull Gems.
+(Cunning, Avenger, Regeneration)
+
+MAX Attack:15 Life:34 Armor:15 Magic:0 
+He's like a giant plushie of death and destruction.
+ 
+Add to Team 
+
+18
+29
+11
+5
+Blade Dancer
+Ultra-Rare Pan's Vale Wildfolk
+#6035
+ 
+Blade Dance (11 Green/Yellow) 
+Deal [Magic + 4] damage randomly split among enemies, boosted by all enemy Armor. [2:1]
+(Siege, Fast, Agile)
+
+MAX Attack:18 Life:29 Armor:11 Magic:5 
+By the time he's finished dancing, nobody's alive to be watching. 
+ 
+Add to Team 
+
+13
+27
+24
+7
+Blast Cannon
+Ultra-Rare Khaziel Mech
+#6043
+ 
+Ground Zero (12 Red/Brown) 
+Deal [Magic + 5] damage to a random enemy, and Silence them.
+(Mech Slayer, Stone Link, Aflame)
+
+MAX Attack:13 Life:27 Armor:24 Magic:7 
+It's a lot more effective than the non-blast cannon; that one just never caught on.
+ 
+Add to Team 
+
+18
+32
+6
+12
+Chimera
+Ultra-Rare Pridelands Monster
+#6051
+ 
+Triple Bite (10 Green/Red) 
+Deal [Magic + 3] damage to the healthiest enemy, then Poison and Burn them.
+(Fire Brand, Sturdy, Arcane)
+
+MAX Attack:18 Life:32 Armor:6 Magic:12 
+His extra head makes the Ettin jealous.
+ 
+Add to Team 
+
+15
+31
+13
+14
+Corrupt Sorceress
+Ultra-Rare Darkstone Human-Mystic
+#6246
+ 
+Extract Spirit (12 Purple/Brown) 
+Create 9 Red Gems. Summon an Anointed One or Remnant.
+(Warded, Mana Shield, Daemonic Pact)
+
+MAX Attack:15 Life:31 Armor:13 Magic:14 
+Power doesn't corrupt people, people corrupt power.
+ 
+Add to Team 
+
+15
+22
+22
+0
+Desert Mantis
+Ultra-Rare Leonis Empire Wildfolk-Monster
+#6302
+ 
+Bug Eye (9 Yellow/Brown) 
+Create 8 Yellow and 8 Blue Gems.
+(Monster Bond, Armored, Air Link)
+
+MAX Attack:15 Life:22 Armor:22 Magic:0 
+Oh no, another bug in the game...
+ 
+Add to Team 
+
+18
+15
+24
+7
+Dragon Knight
+Ultra-Rare Sword's Edge Human-Knight
+#6257
+ 
+Dragon Blade (12 Red/Brown) 
+Deal [Magic + 4] damage to an enemy. If the enemy has a Dragon, deal 6 damage to all enemies.
+(Dragon Slayer, Alert, Armored)
+
+MAX Attack:18 Life:15 Armor:24 Magic:7 
+Not to be confused with Davion.
+ 
+Add to Team 
+
+18
+24
+15
+0
+Dragonian Monk
+Ultra-Rare Dragon's Claw Mystic-Dragon
+#6313
+ 
+Meditate (11 Yellow/Brown) 
+Destroy Gems in an X shape. Barrier a random Ally for every Yellow Gem destroyed. [1:1]
+(Mystic Bond, Warded, Fast)
+
+MAX Attack:18 Life:24 Armor:15 Magic:0 
+Assume the Crane Stance.
+ 
+Add to Team 
+
+18
+24
+15
+7
+Dragonian Rogue
+Ultra-Rare Dragon's Claw Dragon-Rogue
+#6267
+ 
+Hidden Dragon (12 Blue/Purple) 
+Destroy Gems in an X shape. Deal [Magic + 1] damage to the last enemy, boosted by Purple Gems destroyed. [3x]
+(Rogue Bond, Stealthy, Arcane)
+
+MAX Attack:18 Life:24 Armor:15 Magic:7 
+He takes things literally.
+ 
+Add to Team 
+
+15
+32
+11
+5
+Dragonmoth
+Ultra-Rare Dragon's Claw Dragon-Beast
+#6234
+ 
+Infrared (12 Green/Yellow) 
+Deal [Magic + 1] damage to an enemy. If there are 13 or more Red Gems, explode them all.
+(Flying, Nature Spirit, Agile)
+
+MAX Attack:15 Life:32 Armor:11 Magic:5 
+Like a Dragonmoth to a flame.
+ 
+Add to Team 
+
+15
+22
+22
+7
+Drake Rider
+Ultra-Rare Grosh-Nak Orc-Dragon
+#6133
+ 
+Raze (11 Purple/Brown) 
+Deal [Magic + 4] damage to an enemy, and 1 damage to adjacent enemies. Transform all Yellow Gems to Red to boost the effect. [2:1]
+(Dragon Bond, Fireproof, Pyromania)
+
+MAX Attack:15 Life:22 Armor:22 Magic:7 
+No, he's NOT riding a male duck.
+ 
+Add to Team 
+
+11
+35
+18
+11
+Druid
+Ultra-Rare Maugrim Woods Wargare-Mystic
+#6116
+ 
+Thorn Whip (12 Blue/Green) 
+Deal [Magic + 2] damage to 2 random enemies, and 1 damage to adjacent enemies.
+(Water Link, Blessed, Fast)
+
+MAX Attack:11 Life:35 Armor:18 Magic:11 
+HE let the dogs out.
+ 
+Add to Team 
+
+19
+26
+8
+8
+Dwarven Slayer
+Ultra-Rare Stormheim Dwarf
+#6214
+ 
+Glorious Death (18 Red/Yellow) 
+Deal [Magic + 40] damage to an enemy and die gloriously. Can only be cast once (obviously).
+(Dwarf Bond, Frenzy, Impervious)
+
+MAX Attack:19 Life:26 Armor:8 Magic:8 
+Die by the Sword (or Axe).
+ 
+Add to Team 
+
+15
+35
+8
+8
+Enchantress
+Ultra-Rare Silverglade Elf-Mystic
+#6324
+ 
+Arcane Blast (12 Yellow/Purple) 
+Deal [(Magic / 2) + 5] damage to all enemies. Enchant a random Ally.
+(Mystic Bond, Mana Shield, Magic Spirit)
+
+MAX Attack:15 Life:35 Armor:8 Magic:8 
+En-CHANT-ment?
+ 
+Add to Team 
+
+15
+15
+30
+5
+Flame Cannon
+Ultra-Rare Adana Mech
+#6007
+ 
+Wide Burst (12 Red/Yellow) 
+Deal [Magic + 1] damage to all enemies. 20% chance to burn an enemy. 
+(Siege, Armored, Aflame)
+
+MAX Attack:15 Life:15 Armor:30 Magic:5 
+Because the only thing cooler than shooting cannonballs is shooting FLAMING cannonballs.
+ 
+Add to Team 
+
+15
+35
+8
+5
+Flesh Golem
+Ultra-Rare Ghulvania Undead-Construct
+#6055
+ 
+Pulverize (12 Red/Purple) 
+Explode a row. Gain [Magic + 2] Life and decrease all enemies' Magic by 1.
+(Necromancy, Big, Regeneration)
+
+MAX Attack:15 Life:35 Armor:8 Magic:5 
+With that many mouths, no wonder he has a weight problem.
+ 
+Add to Team 
+
+12
+35
+13
+17
+Giant Spider
+Ultra-Rare Zhul'Kari Beast
+#6110
+ 
+Swarm (13 Blue/Green) 
+Transform a selected Mana color to Purple. Summon a level [Magic] Spider Swarm.
+(Magic Link, Big, Venomous)
+
+MAX Attack:12 Life:35 Armor:13 Magic:17 
+He invented the World Wide Web.
+ 
+Add to Team 
+
+13
+31
+18
+6
+Goblin Rocket
+Ultra-Rare Zaejin Goblin-Mech
+#6137
+ 
+Blast Off! (11 Red/Yellow) 
+Explode a gem. Deal [Magic + 3] damage to a random enemy, and 1 damage to adjacent enemies. Gain an extra turn.
+(Fire Link, Fireproof, Aflame)
+
+MAX Attack:13 Life:31 Armor:18 Magic:6 
+And I think it's gonna be a long long time...
+ 
+Add to Team 
+
+17
+19
+21
+16
+Gorgon
+Ultra-Rare Wild Plains Tauros-Monster
+#6141
+ 
+Bull Rush (10 Red/Brown) 
+Destroy a row. Deal [Magic + 2] damage to a random enemy, boosted by each Red Gem destroyed. [2x]
+(Fire Heart, Fast, Stoneskin)
+
+MAX Attack:17 Life:19 Armor:21 Magic:16 
+He's got a fever, and the only prescription is more cowbell.
+ 
+Add to Team 
+
+15
+18
+26
+4
+Grave Knight
+Ultra-Rare Ghulvania Undead-Knight
+#6107
+ 
+Shattering Blow (11 Purple/Brown) 
+Destroy an enemy's Armor, and deal [Magic + 4] Damage.
+(Undead Bond, Stone Spirit, Reinforced)
+
+MAX Attack:15 Life:18 Armor:26 Magic:4 
+He wanted to be a Crypt Knight, but he couldn't defeat Superman.
+ 
+Add to Team 
+
+18
+24
+13
+5
+Herdmaster
+Ultra-Rare Divinion Fields Centaur
+#6019
+ 
+Ancient Lore (12 Yellow/Purple) 
+Explode [Magic + 1] random Yellow Gems. Cleanse all allies.
+(Centaur Bond, Leader, Air Link)
+
+MAX Attack:18 Life:24 Armor:13 Magic:5 
+He loves to talk politics, but his views are a little left of "centaur".
+ 
+Add to Team 
+
+17
+26
+13
+4
+Hobgoblin
+Ultra-Rare Zaejin Goblin
+#6128
+ 
+Hack and Slash (11 Green/Red) 
+Deal [Magic + 3] damage to an enemy and a random enemy. Gain an extra turn.
+(Siege, Nature Brand, Agile)
+
+MAX Attack:17 Life:26 Armor:13 Magic:4 
+He's terribly afraid of giant spiders.
+ 
+Add to Team 
+
+13
+27
+9
+7
+Incubus
+Ultra-Rare Blighted Lands Daemon
+#6305
+ 
+Bewitch (10 Red/Purple) 
+Charm 2 random enemies.
+(Daemon Bond, Warded, Daemonic Pact)
+
+MAX Attack:13 Life:27 Armor:9 Magic:7 
+Did it hurt when you fell from heaven?
+ 
+Add to Team 
+
+15
+19
+26
+9
+Knight Coronet
+Ultra-Rare Sword's Edge Human-Knight
+#6059
+ 
+Cleave (12 Blue/Yellow) 
+Deal [Magic + 1] damage to the first and last enemies, and remove all Purple Gems to boost the effect. [2:1]
+(Leader, Water Spirit, Stoneskin)
+
+MAX Attack:15 Life:19 Armor:26 Magic:9 
+These mystical knights not only guard the royal family, but also enjoy a nice shrubbery.
+ 
+Add to Team 
+
+13
+35
+13
+0
+Lamia
+Ultra-Rare Mist of Scales Naga-Mystic
+#6023
+ 
+Charm (8 Blue/Red) 
+Charm a random enemy. Gain 8 Mana if an enemy dies.
+(Water Brand, Venomous, Empowered)
+
+MAX Attack:13 Life:35 Armor:13 Magic:0 
+Charmed, I'm sure.
+ 
+Add to Team 
+
+15
+21
+27
+11
+Lava Elemental
+Ultra-Rare Broken Spire Elemental
+#6220
+ 
+Lava Rage (10 Red/Brown) 
+Explode a gem. Deal [Magic + 5] damage to the first enemy, boosted by Red Gems destroyed. Burn them. [3x]
+(Fireproof, Pyromania, Stoneskin)
+
+MAX Attack:15 Life:21 Armor:27 Magic:11 
+Lava to lava you baby.
+ 
+Add to Team 
+
+18
+31
+8
+4
+Manticore
+Ultra-Rare Leonis Empire Monster
+#6225
+ 
+Endless Song (9 Green/Yellow) 
+Stun an enemy and drain their Mana by 7. Gain [Magic + 1] Attack.
+(Monster Bond, Impervious, Fast)
+
+MAX Attack:18 Life:31 Armor:8 Magic:4 
+Let me sing you the song of my people.
+ 
+Add to Team 
+
+19
+29
+6
+12
+Marsh Raptor
+Ultra-Rare Mist of Scales Monster
+#6172
+ 
+Take Down (11 Green/Yellow) 
+Deal [Magic + 4] damage to the weakest enemy. Gain 3 Attack and Magic if the enemy dies.
+(Monster Bond, Water Link, Venomous)
+
+MAX Attack:19 Life:29 Armor:6 Magic:12 
+Clever Girl...
+ 
+Add to Team 
+
+18
+13
+26
+10
+Mimic
+Ultra-Rare Blackhawk Monster-Construct
+#6277
+ 
+Surprise! (11 Purple/Brown) 
+Either: Give 50 Gold, OR Deal [Magic + 3] damage to a random enemy, OR Devour a random enemy, OR Explode 6 Gems, OR Gain [Magic + 3] Life, OR Gain 10 Magic.
+(Greedy, Reinforced, Stealthy)
+
+MAX Attack:18 Life:13 Armor:26 Magic:10 
+Do boy mimics have chestnuts?
+ 
+Add to Team 
+
+24
+19
+8
+7
+Minogor
+Ultra-Rare Wild Plains Tauros-Beast
+#6304
+ 
+Dominate (11 Green/Red) 
+Deal [Magic + 3] damage to an enemy. If my Attack is greater, triple the damage.
+(Monster Slayer, Fire Brand, Grudge)
+
+MAX Attack:24 Life:19 Armor:8 Magic:7 
+Who could learn to love a beast?
+ 
+Add to Team 
+
+18
+11
+29
+12
+Mummified King
+Ultra-Rare Khetar Undead
+#6286
+ 
+Embalm (11 Yellow/Purple) 
+Deal [Magic + 6] damage to an enemy and Death Mark myself. 
+(Undead Bond, Necromancy, Arcane)
+
+MAX Attack:18 Life:11 Armor:29 Magic:12 
+Have you seen my mummy?
+ 
+Add to Team 
+
+18
+29
+11
+4
+Naga Queen
+Ultra-Rare Mist of Scales Naga
+#6203
+ 
+Snake Charm (12 Blue/Green) 
+Transform all Brown Gems to Red. Give all allies [Magic] Life, boosted by Gems transformed. [3:1]
+(Naga Bond, Water Link, Venomous)
+
+MAX Attack:18 Life:29 Armor:11 Magic:4 
+Spare him, his life from this monstrosity!
+ 
+Add to Team 
+
+15
+18
+26
+9
+Obsidian Golem
+Ultra-Rare Broken Spire Elemental-Construct
+#6309
+ 
+Igneous (12 Purple/Brown) 
+Explode a Gem. Deal [Magic + 1] damage to the first enemy, boosted by Red Gems destroyed. Deal triple damage if the enemy is a Construct. [4x]
+(Construct Slayer, Big, Stoneskin)
+
+MAX Attack:15 Life:18 Armor:26 Magic:9 
+Don't eat dwarven chilli...
+ 
+Add to Team 
+
+19
+21
+13
+7
+Rakshanin
+Ultra-Rare Pridelands Raksha-Knight
+#6195
+ 
+Crouching Tiger (11 Yellow/Brown) 
+Deal [Magic + 2] damage to an enemy, boosted by their current Life. [2:1]
+(Fast, Alert, Stealthy)
+
+MAX Attack:19 Life:21 Armor:13 Magic:7 
+He ain't no pizza cat!
+ 
+Add to Team 
+
+13
+19
+29
+9
+Rock Spirit
+Ultra-Rare Drifting Sands Elemental
+#6303
+ 
+Earthquake (11 Purple/Brown) 
+Destroy a row and column. Deal [Magic + 4] damage randomly split among enemies, boosted by Brown Gems destroyed. [4x]
+(Elemental Bond, Alert, Stoneskin)
+
+MAX Attack:13 Life:19 Armor:29 Magic:9 
+They built this spirit on rock and soil.
+ 
+Add to Team 
+
+18
+22
+18
+14
+Royal Engineer
+Ultra-Rare Adana Human
+#6250
+ 
+Gear Lock (13 Blue/Brown) 
+Give all allies 5 Armor. Summon either a Bombot, Flame Cannon or Tankbot 2000.
+(Mech Bond, Human Bond, Fire Link)
+
+MAX Attack:18 Life:22 Armor:18 Magic:14 
+I'm an Engeneer... Enginere... Enjineer... I'm good with math.
+ 
+Add to Team 
+
+14
+32
+12
+4
+Runesmith
+Ultra-Rare Khaziel Dwarf-Mystic
+#6193
+ 
+Forge Fire (10 Red/Purple) 
+Give an Ally [Magic + 1] Attack and Armor, boosted by Red Gems. [4:1]
+(Dwarf Bond, Fireproof, Fire Link)
+
+MAX Attack:14 Life:32 Armor:12 Magic:4 
+Where did you think Traitstones come from?
+ 
+Add to Team 
+
+14
+27
+22
+12
+Sacred Guardian
+Ultra-Rare Whitehelm Divine-Beast
+#6031
+ 
+Righteous Shield (11 Yellow/Brown) 
+Deal [Magic + 2] damage to an enemy, and increase your Armor by [Magic + 2].
+(Flying, Blessed, Armored)
+
+MAX Attack:14 Life:27 Armor:22 Magic:12 
+Lions with wings... Now nowhere is safe.
+ 
+Add to Team 
+
+19
+29
+6
+17
+Sacrificial Priest
+Ultra-Rare Karakoth Human-Mystic
+#6201
+ 
+Sacrifice (11 Yellow/Purple) 
+Sacrifice an Ally. Deal 12 damage randomly split among enemies, boosted by the sacrificed troop's Attack. 30% Chance to summon an Abhorath. [1:1]
+(Daemon Bond, Necromancy, Fast)
+
+MAX Attack:19 Life:29 Armor:6 Magic:17 
+Blood and souls for my lord...
+ 
+Add to Team 
+
+19
+28
+8
+10
+Sand Shark
+Ultra-Rare Drifting Sands Monster
+#6161
+ 
+Underbite (12 Red/Brown) 
+Deal [Magic + 2] damage to a random enemy. 25% chance to devour the enemy. [1:1]
+(Cunning, Frenzy, Doom)
+
+MAX Attack:19 Life:28 Armor:8 Magic:10 
+We're gonna need a bigger Camel.
+ 
+Add to Team 
+
+18
+29
+11
+8
+Satyr Musician
+Ultra-Rare Pan's Vale Wildfolk
+#6253
+ 
+Sonata (12 Yellow/Brown) 
+Deal [Magic + 2] damage to 2 random enemies and silence them.
+(Wildfolk Bond, Alert, Air Spirit)
+
+MAX Attack:18 Life:29 Armor:11 Magic:8 
+The pipes, the pipes are calling...
+ 
+Add to Team 
+
+18
+18
+22
+6
+Settite Warrior
+Ultra-Rare Khetar Monster-Knight
+#6211
+ 
+Temple Guard (13 Green/Brown) 
+Give [Magic + 1] Armor to an ally. Deal that ally's armor as damage randomly split among enemies. [1:1]
+(Stone Heart, Avenger, Reinforced)
+
+MAX Attack:18 Life:18 Armor:22 Magic:6 
+Crikey! Look at the size of THIS one!
+ 
+Add to Team 
+
+15
+29
+15
+5
+Shadowblade
+Ultra-Rare Zhul'Kari Elf-Rogue
+#6307
+ 
+Knife in the Dark (9 Blue/Purple) 
+Deal [Magic + 1] true damage to a random enemy. If there are 13 or more Purple Gems on the board, gain all my mana back.
+(Divine Slayer, Stealthy, Agile)
+
+MAX Attack:15 Life:29 Armor:15 Magic:5 
+No, they're NOT scimitars... And he DOESN'T have a pet panther...
+ 
+Add to Team 
+
+18
+17
+22
+6
+Sharkey
+Ultra-Rare Blackhawk Merfolk-Rogue
+#6273
+ 
+Anchors Aweigh (12 Blue/Brown) 
+Deal [Magic + 5] damage randomly split amongst enemies, boosted by Gold collected. [3:1]
+(Merfolk Bond, Big, Water Spirit)
+
+MAX Attack:18 Life:17 Armor:22 Magic:6 
+Fish are friends, not food.
+ 
+Add to Team 
+
+19
+29
+6
+11
+Snow Guardian
+Ultra-Rare Glacial Peaks Fey-Construct
+#6338
+ 
+Snowballs! (12 Green/Brown) 
+Deal [Magic + 6] damage to an enemy, boosted by Frozen enemies. Freeze the enemy. If the enemy dies, create 10 Blue Gems. [4x]
+(Insulated, Water Spirit, Arcane)
+
+MAX Attack:19 Life:29 Armor:6 Magic:11 
+He loves warm hugs.
+ 
+Add to Team 
+
+19
+26
+8
+9
+Spider Queen
+Ultra-Rare Zhul'Kari Elf-Daemon
+#6015
+ 
+Web (9 Green/Purple) 
+Reduce an enemy's Armor by [Magic + 1], Web them and drain their Mana.
+(Leader, Life Drain, Venomous)
+
+MAX Attack:19 Life:26 Armor:8 Magic:9 
+She enjoys long walks on the beach and eating her prey alive.
+ 
+Add to Team 
+
+18
+32
+6
+4
+Spirit Fox
+Ultra-Rare Maugrim Woods Fey-Beast
+#6207
+ 
+Ghost Paw (9 Green/Purple) 
+Drain 7 Mana from an enemy. Deal [Magic + 1] true damage, and remove all Yellow Gems to boost the effect. [2:1]
+(Cursed, Stealthy, Empowered)
+
+MAX Attack:18 Life:32 Armor:6 Magic:4 
+What does the Fox say?
+ 
+Add to Team 
+
+14
+31
+17
+13
+Stone Giant
+Ultra-Rare Broken Spire Elemental-Giant
+#6003
+ 
+Destruction (10 Blue/Green) 
+Deal [Magic + 3] damage to a random enemy, and remove all Red Gems to boost damage. [3:1]
+(Giant Bond, Big, Stoneskin)
+
+MAX Attack:14 Life:31 Armor:17 Magic:13 
+He will... He will... Rock you! 
+ 
+Add to Team 
+
+14
+18
+27
+10
+Thorn Knight
+Ultra-Rare Forest of Thorns Elf-Knight
+#6240
+ 
+Thorn Blade (10 Green/Purple) 
+Deal [Magic + 2] damage to the first enemy, and remove all Red Gems to boost the damage. Entangle them. [3:1]
+(Knight Bond, Nature Heart, Armored)
+
+MAX Attack:14 Life:18 Armor:27 Magic:10 
+He can cut down the tallest tree in the forest... With a herring.
+ 
+Add to Team 
+
+18
+22
+18
+6
+Treant
+Ultra-Rare Forest of Thorns Fey
+#6027
+ 
+Barkskin (12 Blue/Green) 
+Gain [Magic] Attack and Armor, and remove all Brown Gems to boost the effect. [4:1]
+(Nature Heart, Big, Stoneskin)
+
+MAX Attack:18 Life:22 Armor:18 Magic:6 
+No matter what anyone tells you, he hates being called "Woody".
+ 
+Add to Team 
+
+15
+37
+6
+7
+Tuskar
+Ultra-Rare Pridelands Wildfolk
+#6280
+ 
+Tusks of War (11 Green/Brown) 
+Deal [Magic + 1] damage to an enemy, boosted by my Life. Gain 5 Life. [2:1]
+(Nature Heart, Regeneration, Big)
+
+MAX Attack:15 Life:37 Armor:6 Magic:7 
+He never forgets...
+ 
+Add to Team 
+
+15
+19
+24
+4
+Twisted Hero
+Ultra-Rare Blighted Lands Undead
+#6181
+ 
+Fallen Valor (10 Red/Yellow) 
+Create 5 Red and Purple Gems. Increase a random skill on a random Ally by [Magic + 1].
+(Undead Bond, Doom, Grudge)
+
+MAX Attack:15 Life:19 Armor:24 Magic:4 
+We don't need another hero.
+ 
+Add to Team 
+
+15
+35
+8
+7
+Unicorn
+Ultra-Rare Silverglade Beast-Mystic
+#6325
+ 
+Purify (11 Green/Purple) 
+Cleanse, Enchant and give an ally [Magic + 1] Life.
+(Beast Bond, Blessed, Arcane)
+
+MAX Attack:15 Life:35 Armor:8 Magic:7 
+Don't play leapfrog with her.
+ 
+Add to Team 
+
+18
+18
+22
+5
+Urska Wanderer
+Ultra-Rare Stormheim Wildfolk-Knight
+#6290
+ 
+Chilling (12 Green/Red) 
+Deal [Magic + 1] damage to an enemy, boosted by the enemy's Attack. Freeze the enemy. [2:1]
+(Insulated, Shatter, Armored)
+
+MAX Attack:18 Life:18 Armor:22 Magic:5 
+He puts the bear in bearserker.
+ 
+Add to Team 
+
+0
+31
+42
+14
+Void Portal
+Ultra-Rare Karakoth Mystic-Construct
+#6289
+ 
+The Summoning (12 Red/Purple) 
+All Daemon Allies gain 2 Magic. If my Souls are 12 or more, summon a random Daemon.
+(Mystic Bond, Inscribed, Impervious)
+
+MAX Attack:0 Life:31 Armor:42 Magic:14 
+Now you're thinking with Void Portals.
+ 
+Add to Team 
+
+15
+31
+13
+8
+Wandering Monk
+Ultra-Rare Leonis Empire Human
+#6301
+ 
+Lion Mantra (12 Red/Yellow) 
+Deal [Magic + 4] damage to an enemy troop. Deal double damage if the enemy is Stunned. Stun the enemy.
+(Human Bond, Avenger, Knockout)
+
+MAX Attack:15 Life:31 Armor:13 Magic:8 
+Drop and give me zen!
+ 
+Add to Team 
+
+14
+25
+23
+0
+War Sphinx
+Ultra-Rare Khetar Monster
+#6039
+ 
+The Riddle (7 Blue/Purple) 
+Jumble the Board. Gain an extra turn.
+(Water Brand, Regeneration, Impervious)
+
+MAX Attack:14 Life:25 Armor:23 Magic:0 
+I Sphinx, therefore I am. 
+ 
+Add to Team 
+
+19
+26
+8
+9
+Warg
+Ultra-Rare Maugrim Woods Daemon-Beast
+#6282
+ 
+Howl for Blood (12 Red/Purple) 
+Deal [Magic + 4] damage to an enemy, boosted by Souls collected. Gain 10 Souls. [2:1]
+(Beast Bond, Daemon Bond, Pack Master)
+
+MAX Attack:19 Life:26 Armor:8 Magic:9 
+Who's afraid of the big bad warg?
+ 
+Add to Team 
+
+18
+24
+15
+7
+Watcher
+Ultra-Rare Darkstone Monster
+#6149
+ 
+Piercing Gaze (12 Purple/Brown) 
+Deal [Magic + 2] true damage to an enemy, and 1 true damage to adjacent enemies. Drain the enemy's Mana if they have a Status Effect.
+(Daemon Bond, Stone Heart, Arcane)
+
+MAX Attack:18 Life:24 Armor:15 Magic:7 
+Here's lookin' at you, kid.
+ 
+Add to Team 
+
+18
+29
+11
+8
+Wayfinder
+Ultra-Rare Maugrim Woods Wargare-Rogue
+#6283
+ 
+Cunning Trick (12 Green/Red) 
+Deal [Magic + 4] damage to an enemy. Deal double damage if they use Green Mana. Halve their Attack. [2:1]
+(Fast, Stealthy, Agile)
+
+MAX Attack:18 Life:29 Armor:11 Magic:8 
+Not a single fox was given...
+ 
+Add to Team 
+
+15
+37
+6
+14
+Winged Bison
+Ultra-Rare Wild Plains Beast
+#6242
+ 
+Migrate (11 Green/Yellow) 
+Transform all Purple Gems to Red. 40% chance to summon a Winged Bison, boosted by Gems transformed. [2x]
+(Flying, Thick Head, Nature Link)
+
+MAX Attack:15 Life:37 Armor:6 Magic:14 
+You will believe a cow can fly.
+ 
+Add to Team 
+
+18
+31
+8
+10
+Winter Wolf
+Ultra-Rare Glacial Peaks Elemental-Beast
+#6196
+ 
+Winter's Breath (12 Blue/Purple) 
+Freeze and place a Hunter's Mark on the first enemy. Deal [Magic + 4] damage to them. If there are 13 or more Blue gems, create 5 more.
+(Water Brand, Insulated, Shatter)
+
+MAX Attack:18 Life:31 Armor:8 Magic:10 
+He's quite a shaggy dog.
+ 
+Add to Team 
+
+19
+29
+6
+6
+Wyvern
+Ultra-Rare Grosh-Nak Dragon
+#6174
+ 
+Toxic Sting (10 Green/Brown) 
+Deal [Magic + 4] damage to the first enemy and Poison the last enemy.
+(Dragon Bond, Sturdy, Fast)
+
+MAX Attack:19 Life:29 Armor:6 Magic:6 
+Is it a bird? Is it a plane?
+ 
+Add to Team 
+
+19
+24
+11
+11
+Yeti
+Ultra-Rare Glacial Peaks Beast
+#6189
+ 
+Avalanche (11 Blue/Brown) 
+Deal [Magic + 4] damage to an enemy. Deal double damage if the enemy is Frozen.
+(Water Heart, Chill Touch, Water Link)
+
+MAX Attack:19 Life:24 Armor:11 Magic:11 
+There's no business like snow business.
+ 
+Add to Team 
+
+16
+27
+13
+5
+Acolyte
+Rare Karakoth Human-Mystic
+#6009
+ 
+Unearth Secrets (10 Blue/Purple) 
+Create 9 Brown Gems. Increase a random Skill by [Magic].
+(Stone Link, Cursed, Necromancy)
+
+MAX Attack:16 Life:27 Armor:13 Magic:5 
+More acolytes required! Only high-functioning sociopaths need apply.
+ 
+Add to Team 
+
+12
+32
+14
+13
+Alchemist
+Rare Adana Human
+#6005
+ 
+Alchemy (10 Red/Brown) 
+Transform a selected Mana color to Yellow. Gain [Magic + 3] Gold.
+(Merchant, Fire Link, Alert)
+
+MAX Attack:12 Life:32 Armor:14 Magic:13 
+A master of mixology. Just add parsley, rosemary and thyme. 
+ 
+Add to Team 
+
+15
+28
+20
+12
+Archon Statue
+Rare Whitehelm Divine-Construct
+#6030
+ 
+Retribution (10 Green/Brown) 
+Deal [Magic + 3] damage to the healthiest enemy. Deal 8 more if I am damaged.
+(Undead Slayer, Stone Spirit, Stoneskin)
+
+MAX Attack:15 Life:28 Armor:20 Magic:12 
+Don't blink!
+ 
+Add to Team 
+
+12
+30
+21
+10
+Banshee
+Rare Ghulvania Undead
+#6053
+ 
+Scream (12 Yellow/Purple) 
+Deal [Magic + 2] damage to an enemy, and transform all Blue Gems to Red to boost the effect. Gain [Magic + 2] Soul(s). [2:1]
+(Magic Link, Jinx, Air Spirit)
+
+MAX Attack:12 Life:30 Armor:21 Magic:10 
+She's a real scream at parties. 
+ 
+Add to Team 
+
+14
+30
+14
+0
+Bastite Priestess
+Rare Khetar Divine-Monster
+#6299
+ 
+Ankh of Bast (13 Blue/Yellow) 
+Transform Green Gems to Purple. If an ally has Death Mark, also transform Yellow Gems to Skulls.
+(Monster Bond, Blessed, Magic Link)
+
+MAX Attack:14 Life:30 Armor:14 Magic:0 
+Hello, Kitty!
+ 
+Add to Team 
+
+16
+28
+12
+12
+Boar Rider
+Rare Zaejin Goblin-Beast
+#6046
+ 
+Boar & Gore (11 Green/Purple) 
+Remove a row, and deal [Magic + 2] damage to the first enemy. Gain an extra turn.
+(Beast Bond, Defender, Nature Spirit)
+
+MAX Attack:16 Life:28 Armor:12 Magic:12 
+He can literally BOAR you to death.
+ 
+Add to Team 
+
+14
+31
+13
+7
+Bombardier
+Rare Khaziel Dwarf
+#6041
+ 
+Boom! (8 Red/Brown) 
+Explode a Gem. Deal [Magic + 1] damage to a random enemy. 30% chance to burn the enemy.
+(Dwarf Bond, Sturdy, Pyromania)
+
+MAX Attack:14 Life:31 Armor:13 Magic:7 
+He's the ultimate photobomber.
+ 
+Add to Team 
+
+18
+18
+16
+7
+Bugbear
+Rare Zaejin Goblin-Orc
+#6314
+ 
+Mangle (11 Green/Brown) 
+Deal [Magic + 3] damage to an enemy, boosted by their missing Life. Gain an Extra Turn. [2:1]
+(Orc Bond, Goblin Bond, Armored)
+
+MAX Attack:18 Life:18 Armor:16 Magic:7 
+A face only a mother could love.
+ 
+Add to Team 
+
+12
+32
+16
+0
+Cockatrice
+Rare Maugrim Woods Monster
+#6114
+ 
+Stone Song (10 Yellow/Brown) 
+Entangle an enemy, and drain their Mana. Create 6 Brown Gems, boosted by Mana drained. [4:1]
+(Flying, Air Link, Entrapment)
+
+MAX Attack:12 Life:32 Armor:16 Magic:0 
+He's the original Angry Bird.
+ 
+Add to Team 
+
+18
+27
+9
+5
+Cyclops
+Rare Grosh-Nak Giant
+#6132
+ 
+Clobber (11 Red/Brown) 
+Deal [Magic + 1] damage to the first enemy, boosted by my Attack. [1:1]
+(Fire Brand, Frenzy, Big)
+
+MAX Attack:18 Life:27 Armor:9 Magic:5 
+Lack of depth perception will be his undoing.
+ 
+Add to Team 
+
+16
+30
+12
+6
+Dark Maiden
+Rare Zhul'Kari Elf
+#6013
+ 
+Maiden's Touch (10 Green/Red) 
+Transform all Yellow Gems to a chosen color. Give [Magic + 1] Life to the first Ally, boosted by Gems transformed. [3:1]
+(Nature Link, Cursed, Snare)
+
+MAX Attack:16 Life:30 Armor:12 Magic:6 
+She's got great legs... all eight of them.
+ 
+Add to Team 
+
+16
+23
+16
+17
+Dark Master
+Rare Darkstone Human-Knight
+#6148
+ 
+Cat O'Nine Tails (13 Red/Purple) 
+Deal 9 damage to an enemy. Summon a level [Magic] Thrall. If enemy dies, give 2 Attack to all allies.
+(Knight Bond, Cursed, Armored)
+
+MAX Attack:16 Life:23 Armor:16 Magic:17 
+His weakness? Very poor peripheral vision.
+ 
+Add to Team 
+
+18
+27
+7
+0
+Deck Hand
+Rare Blackhawk Human-Rogue
+#6270
+ 
+Swab the Deck (11 Blue/Red) 
+Create 5 Purple Gems, then transform all Purple Gems to Blue.
+(Rogue Bond, Avenger, Water Heart)
+
+MAX Attack:18 Life:27 Armor:7 Magic:0 
+Body shame him at your own peril...
+ 
+Add to Team 
+
+14
+21
+21
+5
+Deep Borer
+Rare Khaziel Mech-Dwarf
+#6042
+ 
+Drill (9 Blue/Red) 
+Destroy a column. Create 9 Brown gems, and gain [Magic + 1] Armor.
+(Mech Bond, Water Link, Armored)
+
+MAX Attack:14 Life:21 Armor:21 Magic:5 
+This guy really digs his job.
+ 
+Add to Team 
+
+12
+30
+18
+5
+Djinn
+Rare Drifting Sands Elemental
+#6157
+ 
+Wish (10 Blue/Yellow) 
+Give [Magic + 1] Life to an Ally, and either: Create 6 Gems of their Mana Color, OR Give 2 Magic.
+(Elemental Bond, Water Heart, Air Spirit)
+
+MAX Attack:12 Life:30 Armor:18 Magic:5 
+Never had a friend like her.
+ 
+Add to Team 
+
+12
+36
+12
+9
+Dragonette
+Rare Dragon's Claw Dragon
+#6232
+ 
+Dragon Sting (8 Green/Purple) 
+Deal [Magic + 2] damage to an enemy. Cause 1- 5 random Status Effects.
+(Sturdy, Fast, Magic Spirit)
+
+MAX Attack:12 Life:36 Armor:12 Magic:9 
+She should seem familiar...
+ 
+Add to Team 
+
+18
+16
+18
+4
+Dragotaur
+Rare Dragon's Claw Dragon-Centaur
+#6233
+ 
+Storm Call (11 Green/Brown) 
+Destroy a Column. Give all Dragon allies [Magic] Attack and Armor, boosted by Yellow Gems destroyed. [2x]
+(Dragon Bond, Dragon Boon, Armored)
+
+MAX Attack:18 Life:16 Armor:18 Magic:4 
+When Dragons and Centaurs get jiggy...
+ 
+Add to Team 
+
+13
+22
+26
+9
+Dryad
+Rare Forest of Thorns Fey
+#6025
+ 
+Nature's Gift (10 Blue/Yellow) 
+Give 5 Life to an Ally, and restore [Magic + 1] Life to them. Give them Barrier and create 8 Green Gems.
+(Fey Bond, Blessed, Nature Link)
+
+MAX Attack:13 Life:22 Armor:26 Magic:9 
+I wonder what she wears in autumn?
+ 
+Add to Team 
+
+16
+26
+14
+0
+Dust Devil
+Rare Drifting Sands Elemental
+#6156
+ 
+Dervish (10 Yellow/Brown) 
+Deal 5 damage to all enemies, and knock the first enemy to the back.
+(Elemental Bond, Air Link, Empowered)
+
+MAX Attack:16 Life:26 Armor:14 Magic:0 
+He spins me right round.
+ 
+Add to Team 
+
+14
+23
+21
+14
+Dwarf Lord
+Rare Khaziel Dwarf
+#6102
+ 
+Ancestral Axe (9 Blue/Brown) 
+Deal [Magic + 4] damage to the first enemy. Gain 8 Armor if the enemy dies.
+(Dwarf Bond, Merchant, Reinforced)
+
+MAX Attack:14 Life:23 Armor:21 Magic:14 
+He was rocking this beard BEFORE it was cool.
+ 
+Add to Team 
+
+18
+27
+7
+0
+Elven Bard
+Rare Silverglade Elf
+#6323
+ 
+Enchanting Melody (11 Green/Yellow) 
+Give an ally 2 Magic, give them half their Mana, and Enchant them. [2:1]
+(Elf Bond, Air Heart, Blessed)
+
+MAX Attack:18 Life:27 Armor:7 Magic:0 
+One time at Bard camp...
+ 
+Add to Team 
+
+12
+35
+10
+11
+Ettin
+Rare Broken Spire Giant-Mystic
+#6002
+ 
+Sunder (9 Blue/Brown) 
+Destroy a column. Gain [Magic] Attack, boosted by all Purple Gems destroyed. [1:1]
+(Big, Jinx, Empowered)
+
+MAX Attack:12 Life:35 Armor:10 Magic:11 
+Whoever said "Two heads are better than one" had obviously never met an Ettin.
+ 
+Add to Team 
+
+16
+23
+16
+8
+Fire Lizard
+Rare Broken Spire Elemental-Beast
+#6221
+ 
+Belch Fire (11 Red/Yellow) 
+Deal [Magic + 3] damage to a random enemy and burn them. Create 7 Red Gems.
+(Beast Bond, Fireproof, Pyromania)
+
+MAX Attack:16 Life:23 Armor:16 Magic:8 
+The best counter to paper and Spock.
+ 
+Add to Team 
+
+18
+23
+12
+7
+Frost Giant
+Rare Stormheim Elemental-Giant
+#6060
+ 
+Frost Axe (9 Blue/Brown) 
+Deal [Magic + 1] damage to a random enemy, boosted by Skulls. The enemy is Frozen. [1:1]
+(Giant Bond, Water Brand, Big)
+
+MAX Attack:18 Life:23 Armor:12 Magic:7 
+He WILL use his axe on anyone found singing "Let it Go".
+ 
+Add to Team 
+
+16
+21
+18
+8
+Gnoll
+Rare Wild Plains Wildfolk
+#6140
+ 
+Savage Swing (9 Green/Red) 
+Deal [Magic + 3] damage to a random enemy. Deal triple damage if they use Brown Mana.
+(Fire Brand, Frenzy, Grudge)
+
+MAX Attack:16 Life:21 Armor:18 Magic:8 
+He was definitely NOT involved in any assassinations. None at all.
+ 
+Add to Team 
+
+14
+32
+12
+5
+Goblin Shaman
+Rare Zaejin Goblin-Mystic
+#6045
+ 
+Spirits & Spells (10 Purple/Brown) 
+Create 7 Green Gems. Give a random ally [Magic] Life. Gain an extra turn.
+(Goblin Bond, Cursed, Sturdy)
+
+MAX Attack:14 Life:32 Armor:12 Magic:5 
+The bigger the nose, the meaner the Goblin. 
+ 
+Add to Team 
+
+16
+23
+16
+14
+Griffon Knight
+Rare Sword's Edge Knight-Beast
+#6058
+ 
+Death Dive (9 Blue/Brown) 
+Deal [Magic + 4] damage to a random enemy, and create 7 Yellow Gems.
+(Flying, Water Spirit, Armored)
+
+MAX Attack:16 Life:23 Armor:16 Magic:14 
+Not the best tempered mounts, Griffons are as likely to eat their riders as their enemies.
+ 
+Add to Team 
+
+14
+27
+16
+5
+Hag
+Rare Darkstone Human-Mystic
+#6147
+ 
+Toil and Trouble (8 Green/Purple) 
+Cause a random Status Effect on an enemy. Increase a random Skill by [Magic + 1] on a random ally. 
+(Nature Heart, Jinx, Sturdy)
+
+MAX Attack:14 Life:27 Armor:16 Magic:5 
+When shall we three met again?
+ 
+Add to Team 
+
+18
+26
+9
+10
+Hellhound
+Rare Blighted Lands Daemon-Beast
+#6179
+ 
+Hell Mouth (10 Green/Red) 
+Deal [Magic + 4] damage to a random enemy and either Burn or Disease them.
+(Beast Bond, Frenzy, Aflame)
+
+MAX Attack:18 Life:26 Armor:9 Magic:10 
+Feed him souls twice a day and give him plenty of exorcise
+ 
+Add to Team 
+
+21
+23
+7
+12
+Hippogryph
+Rare Forest of Thorns Beast
+#6101
+ 
+Swoop (9 Green/Yellow) 
+Deal [Magic + 3] damage to an enemy. Deal triple damage if they have Hunter's Mark.
+(Flying, Air Spirit, Agile)
+
+MAX Attack:21 Life:23 Armor:7 Magic:12 
+No, swooping is NOT bad.
+ 
+Add to Team 
+
+14
+36
+7
+10
+Jackelope
+Rare Glacial Peaks Beast
+#6187
+ 
+Thunderstruck (10 Yellow/Purple) 
+Mana Burn an enemy, boosted by my Magic. Transform all Yellow Gems to Blue.
+(Alert, Air Spirit, Agile)
+
+MAX Attack:14 Life:36 Armor:7 Magic:10 
+Looks like he's having a bad hare day.
+ 
+Add to Team 
+
+14
+16
+27
+9
+Lion Prince
+Rare Leonis Empire Knight-Beast
+#6224
+ 
+Commanding Charge (11 Red/Yellow) 
+Destroy a row. Deal [Magic + 2] damage to the first 2 enemies, boosted by Yellow Gems destroyed. [2x]
+(Knight Bond, Knockout, Armored)
+
+MAX Attack:14 Life:16 Armor:27 Magic:9 
+A knight riding a giant lion... Your argument is invalid.
+ 
+Add to Team 
+
+14
+27
+16
+10
+Marsh Strangler
+Rare Mist of Scales Elemental
+#6311
+ 
+Strangler (10 Green/Purple) 
+Deal [Magic + 1] damage to an enemy, boosted by entangled enemies. [5x]
+(Elemental Bond, Entrapment, Nature Spirit)
+
+MAX Attack:14 Life:27 Armor:16 Magic:10 
+Little Marsh of Horrors.
+ 
+Add to Team 
+
+17
+26
+11
+12
+Mist Stalker
+Rare Mist of Scales Monster
+#6022
+ 
+Mist Strike (10 Red/Purple) 
+Deal [Magic + 3] true damage to the weakest enemy. Poison them. Gain 3 Magic if the enemy dies.
+(Magic Link, Stealthy, Fire Spirit)
+
+MAX Attack:17 Life:26 Armor:11 Magic:12 
+It's not hard to understand why he prefers to live in the mist.
+ 
+Add to Team 
+
+18
+30
+5
+16
+Night Terror
+Rare Zhul'Kari Monster
+#6014
+ 
+Shriek (8 Red/Brown) 
+Deal [Magic + 1] damage to the weakest enemy, and steal 1 Magic.
+(Monster Bond, Life Drain, Magic Spirit)
+
+MAX Attack:18 Life:30 Armor:5 Magic:16 
+He'd really be a terror ANY time of day.
+ 
+Add to Team 
+
+13
+36
+11
+5
+Nymph
+Rare Pan's Vale Fey-Elemental
+#6033
+ 
+Entangle (6 Yellow/Purple) 
+Entangle an enemy. Destroy [Magic + 1] of the enemy's Armor.
+(Fey Bond, Nature Link, Regeneration)
+
+MAX Attack:13 Life:36 Armor:11 Magic:5 
+She dreams of taking a nice holiday, where she can relax and just photosynthesize for a while. 
+ 
+Add to Team 
+
+14
+31
+13
+12
+Owlbear
+Rare Forest of Thorns Beast-Monster
+#6026
+ 
+Screech (10 Green/Brown) 
+Deal [Magic + 3] damage to an enemy. Reduce the enemy's Attack by 2.
+(Beast Bond, Frenzy, Regeneration)
+
+MAX Attack:14 Life:31 Armor:13 Magic:12 
+Exactly how an owl and a bear got together boggles the mind.
+ 
+Add to Team 
+
+14
+18
+23
+7
+Paladin
+Rare Whitehelm Divine-Knight
+#6029
+ 
+Justice (11 Green/Yellow) 
+Deal [Magic] damage to an enemy, boosted by my Armor. [1:1]
+(Dragon Slayer, Air Link, Reinforced)
+
+MAX Attack:14 Life:18 Armor:23 Magic:7 
+He's rockin' some serious Lawful Goodness. 
+ 
+Add to Team 
+
+16
+27
+12
+10
+Pegasus
+Rare Divinion Fields Beast
+#6018
+ 
+Swift Wing (8 Green/Yellow) 
+Deal [Magic + 2] damage to the last enemy, and remove all Yellow Gems to boost damage. [2:1]
+(Flying, Fast, Arcane)
+
+MAX Attack:16 Life:27 Armor:12 Magic:10 
+Contrary to popular opinion, she does not know how to create a sonic rainboom.
+ 
+Add to Team 
+
+16
+26
+14
+5
+Pirate
+Rare Blackhawk Human-Rogue
+#6271
+ 
+Yarr! (11 Blue/Yellow) 
+All allied Rogues gain [Magic + 1] Attack. Give 10 Gold, boosted by allied Rogues. [5x]
+(Greedy, Rogue Bond, Water Link)
+
+MAX Attack:16 Life:26 Armor:14 Magic:5 
+Yo ho, yo ho, a pirate's life for me!
+ 
+Add to Team 
+
+12
+32
+16
+4
+Poison Master
+Rare Mist of Scales Naga
+#6021
+ 
+Venom Flask (12 Blue/Purple) 
+Explode [Magic + 1] random Green Gems, and Poison 2 random enemies.
+(Sturdy, Alert, Venomous)
+
+MAX Attack:12 Life:32 Armor:16 Magic:4 
+He's the reason why you should never accept drinks from a stranger. 
+ 
+Add to Team 
+
+17
+22
+17
+7
+Ranger
+Rare Maugrim Woods Wargare
+#6115
+ 
+Lightning Arrow (10 Green/Yellow) 
+Deal [Magic + 4] damage to an enemy, and deal 8 damage randomly split among enemies, boosted by enemies alive. [4x]
+(Wargare Bond, Air Spirit, Armor Piercing)
+
+MAX Attack:17 Life:22 Armor:17 Magic:7 
+Do NOT mock Team Jacob in his presence!
+ 
+Add to Team 
+
+16
+12
+30
+7
+Revenant
+Rare Khetar Undead
+#6038
+ 
+Vengeance (12 Blue/Purple) 
+Deals [Magic + 5] damage to the last enemy, boosted by Skulls. Place Death Mark on that enemy. [3:1]
+(Water Brand, Avenger, Arcane)
+
+MAX Attack:16 Life:12 Armor:30 Magic:7 
+Vengeance is a dish best served with a really large glowing sword. 
+ 
+Add to Team 
+
+19
+22
+13
+10
+Rex Warrior
+Rare Pridelands Raksha
+#6050
+ 
+Ferocity (10 Blue/Red) 
+Cleanse myself. Deal [Magic + 2] damage to an enemy. Gain 4 Attack if the enemy dies.
+(Frenzy, Avenger, Regeneration)
+
+MAX Attack:19 Life:22 Armor:13 Magic:10 
+Hear me roar!
+ 
+Add to Team 
+
+14
+36
+8
+14
+Rhynax
+Rare Broken Spire Beast
+#6001
+ 
+Gorefest (10 Green/Brown) 
+Deal [Magic + 2] damage to an enemy, and 1 damage to adjacent enemies.
+(Beast Bond, Sturdy, Stone Spirit)
+
+MAX Attack:14 Life:36 Armor:8 Magic:14 
+He looks like the love child of a bull and a socially-mobile rhinoceros... but don't say that to his face.
+ 
+Add to Team 
+
+16
+32
+7
+12
+Sabertooth Lion
+Rare Pridelands Beast
+#6049
+ 
+Saber Strike (8 Blue/Green) 
+Deal [Magic + 3] damage to an enemy. Gain 5 Magic if the enemy dies.
+(Beast Bond, Nature Spirit, Alert)
+
+MAX Attack:16 Life:32 Armor:7 Magic:12 
+What big teeth you have!
+ 
+Add to Team 
+
+21
+21
+9
+10
+Savage Hunter
+Rare Wild Plains Wildfolk
+#6243
+ 
+Hunting Season (7 Green/Brown) 
+Deal [Magic + 5] damage to a random enemy. Deal triple damage if they have a Hunter's Mark. Place Hunter's Mark.
+(Wildfolk Bond, Monster Slayer, Grudge)
+
+MAX Attack:21 Life:21 Armor:9 Magic:10 
+He's on the hunt, he's after you.
+ 
+Add to Team 
+
+16
+26
+14
+10
+Siren
+Rare Pan's Vale Fey-Elemental
+#6034
+ 
+Lure (9 Green/Purple) 
+Deal [Magic + 1] damage to an enemy, and create 9 Gems of that troop's Mana Color.
+(Blessed, Alert, Empowered)
+
+MAX Attack:16 Life:26 Armor:14 Magic:10 
+She was once accused of lip-syncing... But ONLY once! 
+ 
+Add to Team 
+
+12
+36
+12
+0
+Soothsayer
+Rare Wild Plains Tauros-Mystic
+#6139
+ 
+Spirit's Call (9 Green/Brown) 
+Choose a Purple Gem, and destroy its row and column. All other allies gain 1 Magic.
+(Stone Link, Cursed, Empowered)
+
+MAX Attack:12 Life:36 Armor:12 Magic:0 
+He may look dumb, but he can solve a maze in a "minotaur" two.
+ 
+Add to Team 
+
+12
+34
+16
+6
+Star Gazer
+Rare Divinion Fields Divine-Centaur
+#6017
+ 
+Blessing (9 Green/Purple) 
+Give an ally [Magic] Attack, and remove all Blue Gems to boost the effect. [4:1]
+(Blessed, Magic Spirit, Empowered)
+
+MAX Attack:12 Life:34 Armor:16 Magic:6 
+Who knew that you could make a living by staring off into space.
+ 
+Add to Team 
+
+12
+14
+35
+18
+Steam Turret
+Rare Adana Mech
+#6006
+ 
+Barrage (10 Yellow/Brown) 
+Deal [Magic + 3] damage randomly split among enemies.
+(Mech Bond, Fire Spirit, Reinforced)
+
+MAX Attack:12 Life:14 Armor:35 Magic:18 
+Don't be offended by the crew. They're probably just letting off a little steam.
+ 
+Add to Team 
+
+16
+27
+12
+12
+Succubus
+Rare Blighted Lands Daemon
+#6180
+ 
+Kiss of Death (9 Red/Purple) 
+Drain [Magic + 1] Mana from an enemy and place Death Mark on them.
+(Cursed, Life Drain, Daemonic Pact)
+
+MAX Attack:16 Life:27 Armor:12 Magic:12 
+Hell hath no fury...
+ 
+Add to Team 
+
+14
+27
+16
+17
+Summoner
+Rare Grosh-Nak Orc-Mystic
+#6131
+ 
+Bolster (13 Red/Purple) 
+Give all Allies 4 Life. Summon a level [Magic] Ghoul.
+(Magic Heart, Jinx, Daemonic Pact)
+
+MAX Attack:14 Life:27 Armor:16 Magic:17 
+Every Orcish wizard needs a stylish skull-hat.
+ 
+Add to Team 
+
+16
+18
+21
+10
+Swordmaster
+Rare Silverglade Elf
+#6322
+ 
+Blade Waltz (11 Blue/Green) 
+Deal [Magic + 1] damage to the first enemy, boosted by the enemy's Mana cost. [1:1]
+(Knight Bond, Elf Bond, Armored)
+
+MAX Attack:16 Life:18 Armor:21 Magic:10 
+You know what they say about the size of an elf's sword...
+ 
+Add to Team 
+
+14
+18
+26
+4
+Templar
+Rare Whitehelm Human-Knight
+#6100
+ 
+Shield Wall (10 Blue/Brown) 
+Give all allies [Magic] Armor, and transform all Red Gems to Green to boost the effect. [5:1]
+(Defender, Water Link, Armored)
+
+MAX Attack:14 Life:18 Armor:26 Magic:4 
+Armor - you can never wear enough.
+ 
+Add to Team 
+
+14
+32
+9
+4
+The Devoted
+Rare Leonis Empire Divine-Human
+#6223
+ 
+Orpheus' Will (12 Blue/Yellow) 
+Create 7 Gems of a chosen type. Cleanse all allies and give them [Magic + 1] Armor.
+(Divine Bond, Blessed, Air Spirit)
+
+MAX Attack:14 Life:32 Armor:9 Magic:4 
+Totally devoted to you.
+ 
+Add to Team 
+
+14
+18
+27
+5
+Valkyrie
+Rare Stormheim Divine
+#6062
+ 
+Valhalla (10 Red/Yellow) 
+Transform a selected Mana color to Blue. Gain [Magic + 1] Soul(s).
+(Divine Bond, Mana Shield, Water Link)
+
+MAX Attack:14 Life:18 Armor:27 Magic:5 
+She's a one-way ticket to the biggest party ever!
+ 
+Add to Team 
+
+17
+26
+12
+7
+Vampire Lord
+Rare Ghulvania Undead
+#6054
+ 
+Lifeblood (11 Purple/Brown) 
+Deal [Magic + 1] True Damage to an enemy, and remove all Red Gems to boost the effect. Gain 4 Life. [2:1]
+(Knight Slayer, Life Drain, Fire Spirit)
+
+MAX Attack:17 Life:26 Armor:12 Magic:7 
+Real vampires don't sparkle.
+ 
+Add to Team 
+
+16
+25
+16
+12
+Warhound
+Rare Sword's Edge Beast
+#6099
+ 
+Howl (7 Green/Yellow) 
+Reduce the first enemy's Attack by [Magic].
+(Beast Bond, Frenzy, Air Link)
+
+MAX Attack:16 Life:25 Armor:16 Magic:12 
+He ain't nothin' but a hound dog.
+ 
+Add to Team 
+
+16
+27
+12
+12
+Warlock
+Rare Karakoth Human-Mystic
+#6010
+ 
+Dark Channel (8 Blue/Brown) 
+Deal [Magic] damage to an enemy, and remove all Purple Gems to boost damage. [2:1]
+(Necromancy, Water Spirit, Daemonic Pact)
+
+MAX Attack:16 Life:27 Armor:12 Magic:12 
+If you're wise, powerful and enjoy inflicting pain on the helpless, you're either a Dentist, or a Warlock.
+ 
+Add to Team 
+
+14
+12
+29
+7
+Wight
+Rare Khetar Undead
+#6037
+ 
+Life Drain (10 Blue/Red) 
+Steal [Magic + 1] Life from an enemy. Create 5 Purple Gems. Gain [Magic + 1] Soul(s).
+(Water Link, Life Drain, Fire Spirit)
+
+MAX Attack:14 Life:12 Armor:29 Magic:7 
+Don't ask him his favorite color. He's heard that joke before.
+ 
+Add to Team 
+
+16
+18
+21
+7
+Winter Knight
+Rare Glacial Peaks Fey-Knight
+#6188
+ 
+Ice Armor (10 Blue/Green) 
+Explode a Mana Gem. Gain [Magic] Armor, boosted by Blue Gems destroyed. Gain Barrier. [2x]
+(Water Heart, Chill Touch, Armored)
+
+MAX Attack:16 Life:18 Armor:21 Magic:7 
+Don't call him Harry...
+ 
+Add to Team 
+
+14
+21
+23
+5
+Wolf Knight
+Rare Sword's Edge Wargare-Knight
+#6057
+ 
+Hunt (8 Yellow/Brown) 
+Deal [Magic + 1] true damage. Add 6 damage if the enemy is wounded.
+(Fireproof, Air Spirit, Armor Piercing)
+
+MAX Attack:14 Life:21 Armor:23 Magic:5 
+They prefer to hunt in the dark. It's easy when you have knight-vision.
+ 
+Add to Team 
+
+13
+24
+20
+7
+Armored Boar
+Common Grosh-Nak Beast
+#6245
+ 
+Feral Tusk (8 Green) 
+Destroy a row. Deal [Magic + 2] damage to the first enemy, boosted by Skulls destroyed. [3x]
+(Beast Bond, Grudge, Armored)
+
+MAX Attack:13 Life:24 Armor:20 Magic:7 
+Hakuna Matata...
+ 
+Add to Team 
+
+14
+24
+14
+4
+Baby Dragon
+Common Dragon's Claw Dragon
+#6231
+ 
+Tiny Fireball (8 Red) 
+Deal [Magic + 1] damage to a random enemy. Transform into a random Dragon.
+(Alert, Fireproof, Fire Spirit)
+
+MAX Attack:14 Life:24 Armor:14 Magic:4 
+Don't feed him after midnight...
+ 
+Add to Team 
+
+14
+27
+13
+5
+Bogstrider
+Common Mist of Scales Elemental-Monster
+#6312
+ 
+Bog Slime (8 Green) 
+Destroy [Magic + 1] Gems and entangle a random enemy.
+(Elemental Bond, Tangle, Barkskin)
+
+MAX Attack:14 Life:27 Armor:13 Magic:5 
+He's doing vine.
+ 
+Add to Team 
+
+14
+14
+24
+4
+Bombot
+Common Adana Mech
+#6251
+ 
+Kaboom! (10 Brown) 
+Explode 2 random Gems. Deal [(Magic / 2) + 3] damage to all enemies, boosted by my Armor and destroy myself. [2:1]
+(Mech Bond, Sturdy, Aflame)
+
+MAX Attack:14 Life:14 Armor:24 Magic:4 
+Tick, tick, tick...
+ 
+Add to Team 
+
+14
+27
+13
+12
+Centaur Scout
+Common Divinion Fields Centaur
+#6016
+ 
+Charge (7 Yellow) 
+Destroy a row, and deal [Magic + 1] damage to the first enemy.
+(Air Spirit, Agile, Fast)
+
+MAX Attack:14 Life:27 Armor:13 Magic:12 
+It's a tough life when you're always the designated driver.
+ 
+Add to Team 
+
+24
+26
+12
+10
+Courage
+Common Guardians Elemental-Construct
+#6263
+ 
+Fire Surge (13 Red) 
+Create 15 Gems, a mixture of Red and a chosen type. All other allies gain [(Magic / 2) + 4] Attack, boosted by Burning enemies. [4x]
+(Construct Bond, Frenzy, Virtue of Courage)
+
+MAX Attack:24 Life:26 Armor:12 Magic:10 
+Courage mounteth with occasion.
+ 
+Add to Team 
+
+14
+17
+21
+7
+Creeper
+Common Blighted Lands Daemon-Monster
+#6217
+ 
+Shred (7 Red) 
+Deal [Magic + 3] damage to an enemy and Disease them.
+(Monster Bond, Immune, Plague Touch)
+
+MAX Attack:14 Life:17 Armor:21 Magic:7 
+That'sssss a very nice Gem you've got there...
+ 
+Add to Team 
+
+14
+30
+10
+7
+Dire Wolf
+Common Maugrim Woods Beast
+#6113
+ 
+Mark Prey (8 Green) 
+Entangle and place a Hunter's Mark on the first enemy. Deal [Magic + 2] damage to them. If there are 13 or more Green gems, gain an extra turn.
+(Nature Brand, Entrapment, Agile)
+
+MAX Attack:14 Life:30 Armor:10 Magic:7 
+It's like a wolf, only more dire.
+ 
+Add to Team 
+
+0
+37
+30
+14
+Dragon Eggs
+Common Dragon's Claw Dragon
+#6230
+ 
+Hatch (10 Yellow) 
+Summon a Baby Dragon. Gain 6 Life.
+(Dragon Bond, Fireproof, Spawn)
+
+MAX Attack:0 Life:37 Armor:30 Magic:14 
+Blood and Fire!
+ 
+Add to Team 
+
+14
+30
+10
+7
+Dwarven Miner
+Common Khaziel Dwarf
+#6040
+ 
+Dig (3 Brown) 
+Destroy a Gem. Gain [Magic] Gold. 25% chance to gain 100 more gold.
+(Greedy, Stone Link, Impervious)
+
+MAX Attack:14 Life:30 Armor:10 Magic:7 
+Don't ever call him grumpy.
+ 
+Add to Team 
+
+0
+39
+31
+11
+Fortress Gate
+Common Broken Spire Construct
+#6097
+ 
+Reinforce (9 Brown) 
+Gain [Magic + 3] Armor.
+(Defender, Reinforced, Impervious)
+
+MAX Attack:0 Life:39 Armor:31 Magic:11 
+How come nobody ever knocks politely?
+ 
+Add to Team 
+
+14
+24
+14
+0
+Frostling
+Common Glacial Peaks Elemental-Beast
+#6285
+ 
+Frost Web (8 Blue) 
+Freeze and Web an enemy. If there are 13 or more Blue gems, gain half my Mana back.
+(Invigorated, Stalker, Shatter)
+
+MAX Attack:14 Life:24 Armor:14 Magic:0 
+Frosty the Shrimp-thing was a jolly happy soul.
+ 
+Add to Team 
+
+11
+28
+17
+8
+Ghoul
+Common Ghulvania Undead
+#6064
+ 
+Bite (8 Brown) 
+Deal [Magic + 3] damage to the first enemy and reduce all their Skills by 1. Destroy 6 Gems.
+(Human Slayer, Stone Link, Life Drain)
+
+MAX Attack:11 Life:28 Armor:17 Magic:8 
+Ghouls just want to have fun - a famous song by the Undead chanteuse, Cindi Leper.
+ 
+Add to Team 
+
+14
+31
+7
+7
+Giant Toad
+Common Darkstone Beast
+#6293
+ 
+Tongue Lashing (9 Green) 
+Deal [Magic + 1] damage to an enemy and pull them to the front.
+(Beast Bond, Big, Regeneration)
+
+MAX Attack:14 Life:31 Armor:7 Magic:7 
+He's ready for a wild ride.
+ 
+Add to Team 
+
+14
+31
+7
+0
+Giant Toadstool
+Common Zaejin Monster
+#6279
+ 
+Spore Shot (9 Purple) 
+Create 7 Gems of a chosen enemy's Mana Color. 20% chance to transform them into a Giant Toadstool.
+(Monster Bond, Defender, Venomous)
+
+MAX Attack:14 Life:31 Armor:7 Magic:0 
+He's a fungi to be with.
+ 
+Add to Team 
+
+17
+24
+10
+10
+Glade Warden
+Common Forest of Thorns Elf
+#6024
+ 
+Piercing Shot (7 Green) 
+Deal [Magic + 1] damage to an enemy, and remove all Green Gems to boost damage. [3:1]
+(Elf Bond, Nature Spirit, Armor Piercing)
+
+MAX Attack:17 Life:24 Armor:10 Magic:10 
+This all-too-obvious reference has been removed for copyright reasons!
+ 
+Add to Team 
+
+14
+24
+17
+10
+Goblin
+Common Zaejin Goblin
+#6044
+ 
+Hide & Sneak (6 Green) 
+Deal [Magic + 2] damage to an enemy. Gain an extra turn.
+(Greedy, Human Slayer, Nature Link)
+
+MAX Attack:14 Life:24 Armor:17 Magic:10 
+It's not easy being green... and small... and smelly... 
+ 
+Add to Team 
+
+15
+26
+19
+4
+Golem
+Common Karakoth Monster-Construct
+#6008
+ 
+Slam (8 Brown) 
+Explode a gem. Reduce all enemy Armor by [Magic + 1], boosted by Brown Gems destroyed. [1:1]
+(Inscribed, Stoneskin, Stone Link)
+
+MAX Attack:15 Life:26 Armor:19 Magic:4 
+For those about to rock, he salutes you!
+ 
+Add to Team 
+
+20
+19
+27
+7
+Honor
+Common Guardians Elemental-Construct
+#6266
+ 
+Stone Surge (13 Brown) 
+Create 15 Gems, a mixture of Brown and a chosen type. All other allies gain [Magic + 3] Armor, boosted by Stunned enemies. [4x]
+(Construct Bond, Stoneskin, Virtue of Honor)
+
+MAX Attack:20 Life:19 Armor:27 Magic:7 
+If it be a sin to covet honor.
+ 
+Add to Team 
+
+13
+43
+17
+7
+Humility
+Common Guardians Elemental-Construct
+#6264
+ 
+Air Surge (13 Yellow) 
+Create 15 Gems, a mixture of Yellow and a chosen type. All other allies gain [Magic + 2] to a random Skill, boosted by Silenced enemies. [4x]
+(Construct Bond, Regeneration, Virtue of Humility)
+
+MAX Attack:13 Life:43 Armor:17 Magic:7 
+Nothing so becomes a man as modest humility.
+ 
+Add to Team 
+
+14
+31
+7
+4
+Innkeeper
+Common Sword's Edge Human
+#6258
+ 
+On The House (9 Yellow) 
+All other allies gain [Magic + 1] Attack but lose 1 Magic.
+(Human Bond, Regeneration, Air Link)
+
+MAX Attack:14 Life:31 Armor:7 Magic:4 
+Stop asking him for rumors.
+ 
+Add to Team 
+
+16
+17
+37
+10
+Justice
+Common Guardians Elemental-Construct
+#6261
+ 
+Ice Surge (13 Blue) 
+Create 15 Gems, a mixture of Blue and a chosen type. All other allies gain [(Magic / 2) + 1] Life and Attack, boosted by Frozen enemies. [4x]
+(Construct Bond, Armored, Virtue of Justice)
+
+MAX Attack:16 Life:17 Armor:37 Magic:10 
+Which is the justice, which is the thief.
+ 
+Add to Team 
+
+14
+17
+21
+0
+Khopeshi
+Common Leonis Empire Human
+#6222
+ 
+Hook Blade (7 Blue) 
+Pull an enemy to first place and stun them. 
+(Human Bond, Clobber, Armored)
+
+MAX Attack:14 Life:17 Armor:21 Magic:0 
+He's hooked on a feeling...
+ 
+Add to Team 
+
+14
+17
+21
+8
+Lance Knight
+Common Sword's Edge Human-Knight
+#6056
+ 
+Joust (7 Blue) 
+Destroy a row. Gain [Magic + 1] Armor, boosted by all Green Gems destroyed. [2x]
+(Knight Bond, Water Link, Reinforced)
+
+MAX Attack:14 Life:17 Armor:21 Magic:8 
+A perfect day: Jousting, drinking, fighting, drinking, a little bit of sieging, all capped off with a little more drinking.
+ 
+Add to Team 
+
+15
+39
+17
+7
+Loyalty
+Common Guardians Elemental-Construct
+#6262
+ 
+Nature Surge (13 Green) 
+Create 15 Gems, a mixture of Green and a chosen type. All other allies gain [Magic + 1] Life, boosted by Entangled enemies. [4x]
+(Construct Bond, Nature Spirit, Virtue of Loyalty)
+
+MAX Attack:15 Life:39 Armor:17 Magic:7 
+To the last gasp, with truth and loyalty.
+ 
+Add to Team 
+
+10
+33
+14
+4
+Mad Prophet
+Common Drifting Sands Human-Mystic
+#6213
+ 
+Foresight (18 Purple) 
+All other allies gain [(Magic / 2) + 3] Mana and 5 Magic. Can only be cast once.
+(Human Bond, Doom, Cursed)
+
+MAX Attack:10 Life:33 Armor:14 Magic:4 
+Atheism is a non-prophet organization.
+ 
+Add to Team 
+
+17
+27
+7
+7
+Moa
+Common Divinion Fields Beast
+#6219
+ 
+Stomp (7 Yellow) 
+Deal [Magic + 3] damage to an enemy and Stun them.
+(Air Heart, Fast, Knockout)
+
+MAX Attack:17 Life:27 Armor:7 Magic:7 
+Behold the rainbow chicken!
+ 
+Add to Team 
+
+17
+21
+13
+12
+Musketeer
+Common Adana Human
+#6004
+ 
+Snipe (6 Red) 
+Deal [Magic + 2] damage to an enemy.
+(Human Bond, Fast, Fire Spirit)
+
+MAX Attack:17 Life:21 Armor:13 Magic:12 
+For the ultimate set of troops, collect THREE of these guys!
+ 
+Add to Team 
+
+17
+24
+10
+6
+Northrender
+Common Stormheim Human
+#6215
+ 
+Winter Fury (9 Brown) 
+Create 8 Blue Gems. Gain [Magic + 1] Attack.
+(Water Brand, Insulated, Chill Touch)
+
+MAX Attack:17 Life:24 Armor:10 Magic:6 
+Ever been so angry you wore a bear?
+ 
+Add to Team 
+
+19
+30
+14
+0
+Ogre
+Common Broken Spire Giant
+#6000
+ 
+Boulder (6 Blue) 
+Explode a random gem, destroying other gems around it.
+(Frenzy, Big, Regeneration)
+
+MAX Attack:19 Life:30 Armor:14 Magic:0 
+Nothing says "Don't mess with me" quite like a necklace of your enemies' skulls.
+ 
+Add to Team 
+
+13
+27
+17
+6
+Orc
+Common Grosh-Nak Orc
+#6130
+ 
+Enrage (7 Red) 
+Destroy [Magic + 3] Skulls. Gain 4 Attack if I am damaged.
+(Doom, Fire Link, Grudge)
+
+MAX Attack:13 Life:27 Armor:17 Magic:6 
+Three Orcs walk into a bar. The fourth one ducks.
+ 
+Add to Team 
+
+14
+28
+14
+0
+Peasant
+Common Sword's Edge Human
+#6098
+ 
+Pitchfork (3 Blue) 
+Destroy a Gem and the Gems either side of it.
+(Greedy, Water Heart, Jinx)
+
+MAX Attack:14 Life:28 Armor:14 Magic:0 
+Haybales, beware of his mighty pitchfork!
+ 
+Add to Team 
+
+14
+34
+4
+0
+Penitent
+Common Whitehelm Human
+#6249
+ 
+Flagellate (8 Blue) 
+Place Death Mark on the first and last enemies. Take 7 damage.
+(Cursed, Human Bond, Doom)
+
+MAX Attack:14 Life:34 Armor:4 Magic:0 
+Only the penitent man will pass.
+ 
+Add to Team 
+
+14
+28
+11
+12
+Pride Hunter
+Common Pridelands Raksha
+#6048
+ 
+Roar (8 Red) 
+Deal [Magic + 2] damage to the first enemy, and Silence them.
+(Raksha Bond, Stealthy, Fire Spirit)
+
+MAX Attack:14 Life:28 Armor:11 Magic:12 
+He spends most of his days just 'lion' around. 
+ 
+Add to Team 
+
+13
+30
+14
+12
+Priestess
+Common Whitehelm Divine-Human
+#6028
+ 
+Protection (9 Yellow) 
+Cleanse an ally, and give them [Magic + 1] Armor and Barrier.
+(Divine Bond, Blessed, Regeneration)
+
+MAX Attack:13 Life:30 Armor:14 Magic:12 
+Nobody ever wants to play the Healer.
+ 
+Add to Team 
+
+17
+24
+10
+7
+Quasit
+Common Blighted Lands Daemon
+#6178
+ 
+Hex (9 Purple) 
+Reduce a random Skill on an enemy by [Magic + 1].
+(Daemon Bond, Warded, Venomous)
+
+MAX Attack:17 Life:24 Armor:10 Magic:7 
+Like a bat out of hell.
+ 
+Add to Team 
+
+18
+17
+18
+11
+Reaver
+Common Zhul'Kari Elf
+#6012
+ 
+Double Slice (8 Green) 
+Deal [Magic + 1] damage to first 2 enemies. Deal 8 more damage if the enemies are Webbed.
+(Elf Bond, Nature Spirit, Agile)
+
+MAX Attack:18 Life:17 Armor:18 Magic:11 
+A Dark Elf with two swords... that's been done somewhere before, right?
+ 
+Add to Team 
+
+14
+21
+17
+8
+Remnant
+Common Darkstone Undead
+#6247
+ 
+Anguish (7 Red) 
+Explode 2 random gems and gain [Magic + 1] to a random Skill.
+(Thick Head, Reinforced, Regeneration)
+
+MAX Attack:14 Life:21 Armor:17 Magic:8 
+When the Anointing process fails...
+ 
+Add to Team 
+
+14
+24
+14
+7
+Roc
+Common Drifting Sands Beast
+#6155
+ 
+Talon Strike (15 Yellow) 
+Deal [Magic + 9] damage to an enemy. Gain 8 Attack and Life. Can only be cast once.
+(Flying, Grudge, Arcane)
+
+MAX Attack:14 Life:24 Armor:14 Magic:7 
+Dwayne Johnson's pet bird.
+ 
+Add to Team 
+
+14
+34
+7
+10
+Rock Worm
+Common Khaziel Monster
+#6103
+ 
+Burrow (8 Brown) 
+Deal [Magic + 2] damage to the last enemy. Create 7 Brown Gems.
+(Cunning, Stone Heart, Stone Spirit)
+
+MAX Attack:14 Life:34 Armor:7 Magic:10 
+If you cut him in half, two worms DON'T grow back.
+ 
+Add to Team 
+
+16
+29
+25
+6
+Sacrifice
+Common Guardians Elemental-Construct
+#6265
+ 
+Arcane Surge (13 Purple) 
+Create 15 Gems, a mixture of Purple and a chosen type. Kill the last ally. All other allies gain [(Magic / 2) + 1] Magic, boosted by Death Marked enemies. [4x]
+(Construct Bond, Necromancy, Virtue of Sacrifice)
+
+MAX Attack:16 Life:29 Armor:25 Magic:6 
+I'll sacrifice the lamb that I do love To spite a raven's heart within a dove.
+ 
+Add to Team 
+
+14
+30
+10
+0
+Sand Cobra
+Common Leonis Empire Beast
+#6229
+ 
+Cobra Spit (6 Brown) 
+Poison, Disease, and Stun a random enemy.
+(Beast Bond, Agile, Stone Link)
+
+MAX Attack:14 Life:30 Armor:10 Magic:0 
+A REAL Sand Snake.
+ 
+Add to Team 
+
+14
+30
+10
+10
+Satyr
+Common Pan's Vale Wildfolk-Rogue
+#6032
+ 
+Ambush (8 Green) 
+Deal [Magic + 4] damage to the last enemy. Gain an extra turn.
+(Wildfolk Bond, Stealthy, Nature Spirit)
+
+MAX Attack:14 Life:30 Armor:10 Magic:10 
+He was not amused by Goat Simulator 2014. 
+ 
+Add to Team 
+
+13
+24
+20
+10
+Scale Guard
+Common Mist of Scales Naga
+#6020
+ 
+Twin Fang (8 Red) 
+Deal [Magic + 3] damage to an enemy. Deal double damage if they are Poisoned. Poison them.
+(Sturdy, Frenzy, Empowered)
+
+MAX Attack:13 Life:24 Armor:20 Magic:10 
+Looks like his Armor "scales" pretty well with his level.
+ 
+Add to Team 
+
+17
+24
+10
+5
+Serpent
+Common Stormheim Beast
+#6063
+ 
+Spit Venom (7 Blue) 
+Poison the first 2 enemies and create 9 Red Gems. Gain [Magic + 1] Life.
+(Cunning, Agile, Venomous)
+
+MAX Attack:17 Life:24 Armor:10 Magic:5 
+This is Snake.
+ 
+Add to Team 
+
+14
+13
+27
+6
+Ship Cannon
+Common Blackhawk Construct
+#6272
+ 
+Broadside (8 Brown) 
+Deal [Magic + 1] damage to 3 random enemies.
+(Construct Bond, Reinforced, Armored)
+
+MAX Attack:14 Life:13 Armor:27 Magic:6 
+I'd ship it.
+ 
+Add to Team 
+
+13
+30
+14
+7
+Silver Drakon
+Common Silverglade Dragon
+#6321
+ 
+Sliver of Ice (9 Purple) 
+Deal [Magic + 1] damage and freeze the first enemy. If the enemy's Magic is greater than mine, create 8 Blue Gems.
+(Dragon Bond, Insulated, Water Link)
+
+MAX Attack:13 Life:30 Armor:14 Magic:7 
+Can I keep him?
+ 
+Add to Team 
+
+14
+13
+27
+4
+Skeleton
+Common Khetar Undead
+#6036
+ 
+Wake the Dead (10 Purple) 
+Create 7 Skulls. Gain [Magic + 2] Armor. Gain an extra turn.
+(Undead Bond, Knight Slayer, Reinforced)
+
+MAX Attack:14 Life:13 Armor:27 Magic:4 
+Favored to win Krystara's Next Top Model.
+ 
+Add to Team 
+
+14
+31
+10
+5
+Snow Sprite
+Common Glacial Peaks Fey
+#6186
+ 
+Chill (6 Blue) 
+Deal [Magic + 1] damage to an enemy and Freeze them.
+(Fey Bond, Insulated, Shatter)
+
+MAX Attack:14 Life:31 Armor:10 Magic:5 
+She's sweet and fizzy.
+ 
+Add to Team 
+
+17
+24
+10
+0
+Snowy Owl
+Common Stormheim Beast
+#6291
+ 
+Night Vision (8 Yellow) 
+Destroy all Purple Gems, and create 7 Gems of a chosen color.
+(Flying, Insulated, Magic Link)
+
+MAX Attack:17 Life:24 Armor:10 Magic:0 
+This owl doesn't die in Book 7.
+ 
+Add to Team 
+
+14
+19
+19
+10
+Spider Knight
+Common Zhul'Kari Elf-Knight
+#6209
+ 
+Silken Sword (7 Purple) 
+Deal [Magic + 2] damage to an enemy and Web them.
+(Elf Bond, Armored, Venomous)
+
+MAX Attack:14 Life:19 Armor:19 Magic:10 
+Come into my parlor...
+ 
+Add to Team 
+
+11
+28
+17
+7
+Spider Swarm
+Common Zhul'Kari Beast
+#6136
+ 
+Spider Bite (6 Red) 
+Poison an enemy and deal [Magic + 2] Damage.
+(Slippery, Sturdy, Venomous)
+
+MAX Attack:11 Life:28 Armor:17 Magic:7 
+Not ALL deadly things come from Australia...
+ 
+Add to Team 
+
+14
+27
+13
+5
+Sunsail
+Common Pridelands Beast
+#6281
+ 
+Infected Bite (9 Green) 
+Disease an enemy and deal [Magic + 1] damage. Transform all Yellow Gems to Brown to boost the effect. [3:1]
+(Beast Bond, Immune, Stone Link)
+
+MAX Attack:14 Life:27 Armor:13 Magic:5 
+You are the sunsail of my life.
+ 
+Add to Team 
+
+14
+31
+8
+7
+Tauros
+Common Wild Plains Tauros
+#6138
+ 
+Trample (7 Green) 
+Deal [Magic + 2] damage to the first enemy. If I am damaged, deal 8 damage to the second enemy.
+(Nature Link, Sturdy, Avenger)
+
+MAX Attack:14 Life:31 Armor:8 Magic:7 
+Does anyone else think it's weird that he likes wearing leather?
+ 
+Add to Team 
+
+13
+38
+4
+6
+Thrall
+Common Darkstone Human
+#6146
+ 
+Suffering (6 Purple) 
+Destroy [Magic + 4] random Gems. Take 2 damage. If there are 13 or more Red Gems on the board, gain an extra turn.
+(Human Bond, Magic Heart, Magic Link)
+
+MAX Attack:13 Life:38 Armor:4 Magic:6 
+No, he's never led a Horde.
+ 
+Add to Team 
+
+17
+27
+7
+14
+Villager
+Common Ghulvania Human-Monster
+#6295
+ 
+Lycanthropy (9 Brown) 
+Convert Yellow Gems to Brown. Transform into a Werewolf.
+(Immune, Alert, Stealthy)
+
+MAX Attack:17 Life:27 Armor:7 Magic:14 
+Help, help, he's being oppressed!
+ 
+Add to Team 
+
+17
+21
+13
+0
+War Goat
+Common Pan's Vale Beast
+#6254
+ 
+Butt (7 Green) 
+Destroy a row and knock the first enemy to the back.
+(Beast Bond, Frenzy, Impervious)
+
+MAX Attack:17 Life:21 Armor:13 Magic:0 
+He likes to butt in...
+ 
+Add to Team 
+
+14
+30
+10
+7
+Wraith
+Common Ghulvania Undead
+#6206
+ 
+Wraith Touch (7 Blue) 
+Steal [Magic + 2] Life from an enemy, OR Steal their Mana. [1:1]
+(Undead Bond, Death Touch, Chill Touch)
+
+MAX Attack:14 Life:30 Armor:10 Magic:7 
+His name has a nice ring to it.
+ 
+Add to Team 
+
+14
+30
+10
+7
+Zombie
+Common Ghulvania Undead
+#6052
+ 
+Eat Brains (8 Purple) 
+Remove all skulls from the board. Gain [Magic + 1] Life, boosted by Skulls removed. [2:1]
+(Undead Bond, Necromancy, Magic Spirit)
+
+MAX Attack:14 Life:30 Armor:10 Magic:7 
+Every day he's shufflin'... and eating brains.
+

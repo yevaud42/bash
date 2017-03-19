@@ -1,0 +1,58 @@
+#
+# Customization of the shell for my specific liking.
+# Things like the PROMPT setup, title of the terminal, 
+# directory colors, etc..
+#####################################################################################
+
+
+#####################################################################################
+# Load bash_vars to set variables local to the shell and also environment variables
+# that are used by external programs to configure their settings or behaviors.
+# NOTE:  PATH is not adjusted here - see bash_paths for this special variable.
+#
+if [ -f ~/.bash/bash_vars ]; then
+	echo "    >  Settings various variables to adjust settings and behaviors..."
+	. ~/.bash/bash_vars
+fi
+
+
+
+#####################################################################################
+# load in the file to configure the internal shell options
+# typically set via the builtin 'shopt -s <option>
+if [ -f ~/.bash/bash_shopts ]; then
+	echo "    >  Configuring shell options...";
+	. ~/.bash/bash_shopts 
+fi
+
+#####################################################################################
+# Load custom aliases if file is present.
+if [ -f ~/.bash/bash_aliases ]; then
+	echo "    >  Loading BASH aliases.."
+	. ~/.bash/bash_aliases
+fi
+
+#####################################################################################
+# load in the script that customizes the shell prompt string,
+# which is in bash_prompt if it exists.
+if [ -f ~/.bash/bash_prompt ]; then
+	echo "    >  Configuring the command prompts..."
+	. ~/.bash/bash_prompt
+fi
+
+
+####################################################################################
+# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).
+if [ -f /etc/bash_completion ]; then
+	echo "      >  Initializing command completion facilities..."
+    . /etc/bash_completion
+fi
+if [ -f ~/.bash/bash_completion ]; then
+	echo "       >  Personalizing command completion facilities..."
+	. ~/.bash/bash_completion
+fi
+
+
+

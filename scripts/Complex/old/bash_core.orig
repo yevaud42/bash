@@ -1,0 +1,30 @@
+# ~/.bash_logout: executed by bash(1) when login shell exits.
+
+# when leaving the console clear the screen to increase privacy
+
+
+function .sysWarn ()
+{
+	echo $COLOR1 "WARNING: $*" $COLOR3
+}
+
+function .sysError ()
+{
+	echo $COLOR2 "ERROR: $*" $COLOR3
+}
+
+function .utilTerminalHasColor ()
+{
+	case "$TERM" in
+	xterm*|rxvt*|uxterm*|konsole*|terminal*)
+		return 1
+		;;
+	*)
+		return 0
+		;;
+	esac
+}
+
+#if [ "$SHLVL" = 1 ]; then
+#    [ -x /usr/bin/clear_console ] && /usr/bin/clear_console -q
+#fi

@@ -1,0 +1,41 @@
+#!/bin/bash -f
+#
+# Adjust the path environment variable to include folders that need
+# to be in the search PATH for executing programs, finding DLLs and
+# dynamically loaded files, and numerous other uses.
+#
+
+export _STARTUP_PATH=$PATH
+
+#
+#  Next, we define a series of user variables that define the additions
+# to be added to the PATH variable if not already present.
+# Note the list includes two packages that are macos specific - MacPort and
+# FINK - and in general this file was written on my iMac so it has a strong
+# Apple-Unix flavored bias.
+#
+# NOTE:  _USER variables are meant for the user to fill in with their personal
+# 		paths.  The PREFIX variable will be included before all other paths, while
+#       the POSTFIX paths will be included after all other paths are included.
+#
+#
+####################################################################
+
+export _MACPORT_PATH=/opt/local/bin:/opt/local/sbin:/opt/local/etc:/opt/local/share:/opt/local/x11:/opt/local/share/bin
+export _MACUNIX_PATH=/usr/bin/X11:/usr/local/bin/X11:/usr/opt/bin/:/usr/opt/sbin:/usr/local/sbin:/usr/sbin:/usr/local/bin:/usr/local/bin/X11:/usr/x11/bin:/usr/bin/x11:/usr/local/bin/X11
+
+export _FINK_PATH=/sw/local/bin:/sw/port/bin:/sw/port:/sw/local/sbin
+export _USER_PATH_PREFIX=~/bin/prefix:/Applications/Utilities:/Places/bin:/Places/UserApps:/Places/UserBin:/Places/Links/Bin
+export _USER_PATH_POSTFIX=~/bin/postfix:~/Applications/bin:~/Scripts
+export PATH="$_MACUNIX_PATH:$_USER_PATH_PREFIX:$_MACPORT_PATH:$_FINK_PATH:$PATH:$_USER_PATH_POSTFIX"
+#echo "Added PATHS: "
+#sdiff -s "$presplit" "$postsplit"
+
+
+echo "PATH='$PATH'"
+echo "PATH is set to:  $(cut $PATH ':')"
+
+echo "PATH has been adjusted to include subfolders of /Applications and /Places."
+
+
+

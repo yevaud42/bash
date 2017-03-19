@@ -1,0 +1,136 @@
+function .sysWarn ()
+{
+	echo $COLOR_WARN "WARNING: $*" $COLOR_FOREGROUND
+}
+
+function .sysError ()
+{
+	echo $COLOR_ERROR "ERROR: $*" $COLOR_FOREGROUND
+}
+
+function .sysEcho ()
+{
+	echo $COLOR_ECHO "Sys:  $*" $COLOR_FOREGROUND
+}
+
+function .edit ()
+{	
+	local shEditor=$_SHELL_ED
+	local shEditor_Args=$_SHELL_ED_ARGS $@
+	if [ "$shEditor" != "" ] ; then
+		shEditor="vim"
+		shEditor_Args="$@" 
+		.sysWarn "Using default shell editor '$shEditor' for editing.  To customize, set _SHELL_ED env var."
+	fi
+
+	local doReload=0;	# This var controls wether we load the dot files again to refresh settings.  Set to 1 to refresh.
+	case "$1" in
+	-l*|load*|-L*|Load*)
+		doReload=1
+		;;
+	*)
+		.sysEcho "Running: $shEditor '$shEditor_Args' $HOME/.bash/$1/"
+		doReload=1
+		if [ $shEditor_Args ] ; then
+			echo "$shEditor '$shEditor_Args' '$HOME/.bash/'"
+			$shEditor $shEditor_Args "$HOME/.bash/"
+		else
+			echo "$shEditor '$HOME/.bash/'"
+			$shEditor "$HOME/.bash/"
+		fi
+		.sysWarn "Editing completed.  Returning to shell...";
+		;;
+	esac
+	
+	if [ $doReload > 0 ] ; then
+		.sysWarn "Reloading ~/.bashrc file...";
+		. ~/.bashrc;	
+	fi
+
+	return 0;
+}
+
+
+
+#
+# This function allows me to easily change the colorscheme for my prompt
+# and ls commands to reflect either a light or dark background by 
+# specifying the -light or -dark arguments, respectively.  It can also 
+# print out a summary of the colors available so you can see what the
+# colors look like in the current environment.  Finally, there is a -reload
+# option that will reload the user's ~/.bashrc so that color changes are
+# immediately reflected in the environment upon the function's return.
+#
+function .color ()
+{
+	case "$1" in
+	light|Light|LIGHT)
+		export COLORSCHEME=light
+		doApply=$true
+		.sysWarn "Colorscheme configured for LIGHT background.  Reloading .bashrc.."
+		;;
+	dark|Dark|DARK)
+		export COLORSCHEME=dark
+		doApply=$true
+		.sysWarn "Colorscheme configured for DARK background.  Reloading .bashrc..."
+		;;
+	reload|Reload|load|Load|RELOAD|LOAD|apply|APPLY)
+		doApply=$true
+		.sysWarn "Reloading personal shell file ~/.bashrc to update any affected aspects..."
+		. ~/.bashrc
+		;;
+	list|List|LIST|show|Show|SHOW)
+		printf "Color                 Sample Text"
+		printf "-------------------   ---------------------------------------"
+		printf "COLOR_FG           " $COLOR_FG "  Four score and seven years ago"
+	        printf "COLOR_WHITE	 " $COLOR_WHITE "  Our forefathers brought forth"
+     		printf "COLOR_BLACK	 " $COLOR_BLACK "  Upon this continent, a new neation"
+		printf "COLOR_RED	 " $COLOR_RED "  Under God, and dedicated to the"
+	     	printf "COLOR_BLUE	 " $COLOR_BLUE "  proposition that all men are"
+		printf "COLOR_GREEN	 " $COLOR_GREEN "  created equal.  And that all"
+		printf "COLOR_YELLOW	 " $COLOR_YELLOW "  men are guaranteed certain"
+		printf "COLOR_VIOLET	 " $COLOR_VIOLET "  inalienable rights, chief among"
+		printf " "$COLOR_FG"-----------------------------------------------------------------"
+		return 0;
+		;;
+	*)
+		echo  "Invalid color command.  Valid options are:"
+		echo "--------- - - - - ------ - - -- - - "
+		echo "  light   - Configure terminal colors for a light background."
+		echo "  dark    - Configure terminal colors for dark background."
+		echo "  list    - Same as <show> above... but more fun"
+		echo "   |show  - Display colors in sample text"
+		echo ""
+		echo "  reload  - Apply the color updates to the shell by reloading ~/.bashrc"
+		echo "   |load  - Same as reload"
+		echo "	 |apply - Another name for reload"
+		echo "  fg <color> - Set the foregrouhnd color to specified value"
+		return -1;
+		;;
+	esac
+
+	if [[ $doApply ]]; then
+		.sysWarn "Applying changes to visual environment (reloading bash_custom)..."
+		. ~/.bashrc;
+	fi
+
+}
+
+function .go ()
+{
+	$_GOLIST[$#_GOLIST] = $1
+	// later on - make this look through common paths trying to find the folder inq uestion.... as I used
+	// to do in Powershell
+	cd $1
+	return 0;
+}
+
+
+
+#if [ "$SHLVL" = 1 ]; then
+#    [ -x /usr/bin/clear_console ] && /usr/bin/clear_console -q
+#fi
+
+# Local Variables:
+# coding: US-ASCII
+# End:

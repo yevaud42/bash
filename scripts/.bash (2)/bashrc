@@ -1,0 +1,30 @@
+#!/usr/share/bin/bash
+# ~/.bashrc: executed by bash(1) for non-login shells.
+#
+# This script serves as the bootstrap for loading the rest of my bash
+# environment, which you will find in the ~/.bash folder.  There are nearly
+# a dozen files in the folder, each of which is devoted to handling a specific
+# aspect of the shell.  The bootstrap concept was employed to allow me to break
+# the scripting code into peices without polluting the hidden filespace of my home
+# directory (the so-called ‘dot’ files).  
+# 
+# If you are browsing this file for hints on how to do something with your own
+# shell environment, keep in mind that there are also examples to be found in
+# the official bash support folder (usually something like /usr/share/doc/bash/examples/startup-files ). :-)# 
+
+
+# If not running interactively, don't do anything
+[ -z "$PS1" ] && return;
+
+
+
+# Initialize my custom bash environment, including custom prompt strings,
+# script functions, and environment variables and option settings.
+#
+if [ -f ~/.bash/bash_init ]; then
+	echo ">  Loading personal bash environment NOW..."
+	. ~/.bash/bash_init;
+else
+	echo ">  ERROR!!  No personalized setup files found (~/.bash).  Vanilla Alert!";
+fi
+

@@ -1,0 +1,33 @@
+##
+# This file is used tp customize the prompt, and sets the shell variables
+# to that control its behavior and appearance (such as PS1, etc..).
+#
+# Dec 2009 - mdm
+#
+###############################################################
+
+# PREREQ:  ~/.bash_custom
+# PREREQ:  ~/.bash_util
+
+PROMPT_POSTFIX="> "
+if ( .utilTerminalHasColor ) ; then
+	if [ $(id -u) = 0 ]  ; then
+		COLOR1=$COLOR_RED
+		PROMPT_POSTFIX='[su] '$PROMPT_POSTFIX
+	else
+		COLOR1=$COLOR_GREEN
+	fi
+
+	COLOR2=$COLOR_YELLOW
+	COLOR3=$COLOR_WHITE
+else
+	COLOR1=''
+	COLOR2=''
+	COLOR3=''
+fi
+
+# Now set the prompt using the color strings above
+
+PS1=$COLOR1' -[ (\D{%b %d, %I:%M %p})  who:\u@\h tty:\l jobs:\j ]-\n'$COLOR2'#\! (\t) '$COLOR1'(\w/) '$COLOR3$PROMPT_POSTFIX
+PS1_ALT1=$COLOR1'[\D \u@\h - tty:\l - jobs:\j]\n\! \@#\! (tty:\l+\j)'$COLOR2' \w'$COLOR1']'$COLOR3'\->  '
+PS2=$COLOR1'(cont..) -> '$COLOR3' '

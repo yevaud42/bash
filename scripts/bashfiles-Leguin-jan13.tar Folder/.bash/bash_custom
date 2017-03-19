@@ -1,0 +1,68 @@
+#
+# Customization of the shell for my specific liking.
+# Things like the PROMPT setup, title of the terminal, 
+# directory colors, etc..
+#####################################################################################
+
+
+# prevents less from leaving an empty screen at the end of output
+
+##############
+# Setup some environment variables for storing preferences referenced
+# in other scripts during the course of a session..
+####################
+export LESS="-X"
+
+export _LSOPTS='--group -X -l -F -h'
+
+#
+#  Synergy setup
+######################################################
+export SYNERGY_HOST=192.168.3.36
+export SYNERGY_SCREEN_NAME=Leguin
+export SYNERGY_ROOT=/Places/Applications/Synergy
+export SYNERGY_CONFIG=$SYNERGY_ROOT/synergy.conf
+
+# adds a touch of color;l user prompt in green, root prompt in red
+export COLOR_BLACK='\[\033[01;30m\]'
+export COLOR_RED='\[\033[00;31m\]'
+export COLOR_GREEN='\[\033[01;32m\]'
+export COLOR_YELLOW='\[\033[01;33m\]'
+export COLOR_BLUE='\[\033[01;34m\]'
+export COLOR_PURPLE='\[\033[00;35m\]'
+export COLOR_WHITE='\[\033[01;39m\]'
+
+# load in my builtin settings
+if [ -f ~/.bash/bash_aliases ]; then
+	echo "    >  Loading BASH aliases.."
+	. ~/.bash/bash_aliases
+fi
+
+# load in the script that customizes the shell prompt string,
+# which is in bash_prompt if it exists.
+if [ -f ~/.bash/bash_prompt ]; then
+	echo "    >  Configuring the command prompts..."
+	. ~/.bash/bash_prompt
+fi
+
+# load in the file to configure the internal shell options
+# typically set via the builtin 'shopt -s <option>
+if [ -f ~/.bash/bash_shopts ]; then
+	echo "    >  Configuring shell options...";
+	. ~/.bash/bash_shopts 
+fi
+
+# enable programmable completion features (you don't need to enable
+# this, if it's already enabled in /etc/bash.bashrc and /etc/profile
+# sources /etc/bash.bashrc).
+if [ -f /etc/bash_completion ]; then
+	echo "      >  Initializing command completion facilities..."
+    . /etc/bash_completion
+fi
+if [ -f ~/.bash/bash_completion ]; then
+	echo "       >  Personalizing command completion facilities..."
+	. ~/.bash/bash_completion
+fi
+
+
+

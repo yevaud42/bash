@@ -1,0 +1,73 @@
+##
+# This file is used tp customize the prompt, and sets the shell variables
+# to that control its behavior and appearance (such as PS1, etc..).
+#
+# Dec 2009 - mdm
+#
+###############################################################
+
+# PREREQ:  ~/.bash_custom
+# PREREQ:  ~/.bash_util
+
+PROMPT_POSTFIX="-> "
+if ( .utilTerminalHasColor ) ; then
+	if [ $(id -u) = 0 ]  ; then
+		COLOR1=$COLOR_RED
+		PROMPT_POSTFIX='[su] '$PROMPT_POSTFIX
+	else
+		COLOR1=$COLOR_VIOLET
+	fi
+
+	
+	if [ "$COLORSCHEME" = "light" ] ; then
+		echo "Using black for foreground due to COLORSCHEME set to light..."
+		COLOR2=$COLOR_BLUE
+		COLOR3=$COLOR_RED
+		COLOR_FG=$COLOR_BLACK
+	else
+		COLOR2=$COLOR_YELLOW
+		COLOR3=$COLOR_GREEN
+		COLOR_FG=$COLOR_WHITE
+	fi
+else
+	COLOR1=''
+	COLOR2=''
+	COLOR3=''
+	COLOR_FG=''
+fi
+
+# Now set the prompt using the color strings above
+
+#set osPrint=$HOSTTYPE
+
+# This was original attempt, further refined below in next setting for PS1
+#PS1=$COLOR2'(\D{%I:%M:%S %m/%d/%Y})'$COLOR_FG'  (Host: \h'$COLOR2'\u'$COLOR_2'@\l '$COLOR'[J:\j])'$COLOR_FG'\n'$COLOR2'#\!: ('$COLOR3'\w/'$COLOR_FG') '$COLOR3'$PROMPT_POSTFIX'$COLOR_FG'>  '
+
+PS1=$COLOR_FG'>>'$COLOR3'\u@\l'$COLOR_FG'<<  ('$COLOR2'\D{%m/%d/%Y}'$COLOR_FG')  [Shell: \s v.\v TTY: \l j:\j \$\$:$$]\n'$COLOR2'#\#@\h} '$COLOR_FG'('$COLOR3'\#@\@'$COLOR_FG' Dir:'$COLOR3'\w/'$COLOR_FG'$PROMPT_POSTFIX'
+PS1_ALT1=$COLOR1'[\D '$COLOR2'\u'$COLOR3'@\h - tty:\l - jobs:\j]\n\! \@#\! (tty:\l+\j)'$COLOR2' \w'$COLOR1']'$COLOR3'\->  '
+PS2=$COLOR1'(cont..) -> '$COLOR3' '
+
+
+
+###### NOTE:  REMOVED FOR NOW AS THIS WAS THE OLD TERMINAL APPLE SETTING
+# set a fancy prompt (non-color, unless we know we "want" color)
+#case "$TERM" in
+#xterm-color)
+#    PS1='\h$ @\t {debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h(\t): \[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+#    ;;
+#*)
+#    PS1='[\h${debian_chroot:+($debian_chroot)} [\u@\t] \t==\T==\d==\m \w\@ :> '
+#    ;;
+#esac
+
+# Comment in the above and uncomment this below for a color prompt
+PS1a='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+
+# If this is an xterm set the title to user@host:dir
+case "$TERM" in
+xterm*|rxvt*)
+    PROMPT_COMMAND='echo -ne "\033]0;${USER}@${HOSTNAME}: ${PWD/$HOME/~}\007"'
+    ;;
+*)
+    ;;
+esac

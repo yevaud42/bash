@@ -1,0 +1,160 @@
+#
+# alias commands for aliases
+#######################################################################################
+
+# folder and file listing aliases for ls.exe and the like
+
+
+unalias ls
+alias _ls=ls
+alias ls='ls $_LSOPTS '
+
+alias l='ls -l $_LSOPTS '
+alias ll=l
+
+alias lw='ls -C $_LSOPTS '
+alias la='l -a'
+alias lA='l -A'
+alias lwa='lw -a '
+alias lwA='lw -A '
+alias lwg='lw -g '
+alias lG='l -G'
+alias lg='l -g'
+alias lt='l -t'
+alias lrt='l -tr'
+alias lss='l -S'
+alias lssr='l -rS'
+alias lsr=lsr
+alias dir=l
+alias dirp='l|less'
+alias pdir=dirp
+alias vdir='l | grep -i "$d"'
+alias rlist='l -lARHF'
+alias wdir='ls $_LSOPTS --wide'
+
+
+#
+# file system operations
+#####################################################################################
+alias xcopy='cp -vfr $*'
+alias del='rm -rfv'
+alias move='mv -vf'
+alias copy='cp -vf'
+alias clean='rm -fv \~* *\~ .*\~ .*\# \#* *.*\# *.tmp *.temp *.swp .*.swp *.swo .*.swo'
+
+alias .nuke='rm -rfv $*'
+alias nuke='rm -rv $* '
+alias snuke='echo $SUDO_PASS | sudo -S rm -rfv $*'
+
+#
+# search and find helper aliases
+#####################################################################################
+alias lgrep='ls -lA \| grep -i $*'
+
+# command history manipulation
+#####################################################################################
+alias h='history'
+alias rr='!!'
+alias r='!'
+alias rp='! $* | less'
+
+#
+# Process list command aliases ... taken mostly from the manual page
+#####################################################################################
+
+# To see every process on the system using standard syntax:
+alias .pse='ps ely'
+alias .pse2='ps exf'
+
+
+# To see every process on the system using BSD syntax:
+alias .psa='ps aux'
+alias .pst='ps axjf'
+
+# To print out processes with thread info
+alias .psth='ps axms'
+alias .psth2='ps -eLf'
+
+# To get security info:
+alias .pss='ps -eo euser,ruser,suser,fuser,f,comm,label'
+alias .pss2='ps axZ'
+alias .pss3='ps -eM'
+
+# To see every process running as root (real & effective ID) in user format:
+alias .psroot='ps -U root -u root u '
+
+alias .g='grep -in "$*" '
+alias .gnc='grep -n "$*" '
+alias .gv='grep -inv "$@" '
+
+#       To see every process with a user-defined format:
+alias .psu='ps -eo pid,tid,class,rtprio,ni,pri,psr,pcpu,stat,wchan:14,comm'
+alias .psug=".psu|.g $*"
+alias .psu2='ps axo stat,euid,ruid,tty,tpgid,sess,pgrp,ppid,pid,pcpu,comm'
+alias .psu2g=".psu2|.g"
+alias .psu3='ps -eopid,tt,user,fname,tmout,f,wchan'
+alias .psu3g=".psu3|.g"
+
+
+# Print only the process IDs of syslogd:
+alias .pslog='ps -C $1 -o pid= $2$3$4'
+
+#  Print only the name of PID 42:
+alias .psid='ps -p $1 -o comm='
+
+
+alias .pstree='pstree | .p'
+alias .psutree='pstree -u $USER | .p'
+
+
+######################################################################################
+#                           ............................                            #
+#            <-<><><><><>-> Package Installation Aliases <-<><><><><>->             #
+#                           ............................                            #
+#                                                                                   #
+#  Aliases to make the use of the command-line interface for the major installers   #
+#  simpler, more convenience, and overall less damaging to my poor wrist joints.    #
+# ###################################################################################
+
+#  Alias for Aptitude, a package manager invoked by "apt-get" and
+#  similar.  Familiar to anyone who has installed Ubuntu in recent
+#  years, and for those using one of the many Ubuntu variations (such
+#  as Mint, Mythbunut, etc..)
+alias .install='echo $SUDO_PASS | sudo -S apt-get install -y $*'
+alias .remove='echo $SUDO_PASS | sudo -S apt-get remove -y $*'
+alias .query='apt-cache search $*'
+alias .update='echo $SUDO_PASS | sudo -S apt-get update -y $*'
+alias .upgrade='echo $SUDO_PASS | sudo -S apt-get upgrade -y $*'
+alias .aptshow='apt-cache show $*'
+alias .aptdump='apt-cache dump $*'
+alias .aptlist='apt-cache list $*'
+
+#
+# Misc aliases....
+##################################################################################
+
+alias mvim='open /Applications/Editors/MacVim.app'
+alias .rl='. ~/.bashrc'
+alias .reload=.rl
+
+alias du='du -h '
+alias more=less
+alias .p='w3m -v'
+alias rs='set noglob; eval `resize`'
+
+#
+# Mac OSX aliases -- run common programs from terminal windows easily...
+#########################################################################################
+alias .firefox='"/Applications/Web\ \&\ Internet/Firefox.app/Contents/MacOS/firefox-bin" $*'
+alias .macvim='/Applications/Editors/MacVim.app/Contents/MacOS/MacVim $*'
+alias .wrangler='/Applications/Editors/TextWrangler.app/Contents/MacOS/textwrangler $*'
+alias .vlc='/Applications/MultiMedia/VLC.app/Contents/MacOS/VLC $*'
+alias .xls='xlsclients -l '
+alias .lswin=.xls
+alias .winls=.xls
+alias .winlist=.xls
+alias .setg='set | grep -i -B60 $*'
+
+export ALIAS_COUNT=$(alias | wc -l)
+
+echo "$ALIAS_COUNT Aliases installed..." echo "==================== \\\/// ======================"

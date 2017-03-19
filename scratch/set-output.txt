@@ -1,0 +1,359 @@
+ALLUSERSPROFILE='C:\ProgramData'
+APPDATA='C:\Users\Michael\AppData\Roaming'
+BASH=/bin/bash
+BASHOPTS=cdable_vars:cdspell:checkhash:checkwinsize:cmdhist:compat31:complete_fullquote:dotglob:execfail:expand_aliases:extdebug:extglob:extquote:failglob:force_fignore:gnu_errfmt:histappend:histreedit:hostcomplete:interactive_comments:login_shell:no_empty_cmd_completion:nocaseglob:nocasematch:progcomp:promptvars:sourcepath
+BASH_ALIASES=()
+BASH_ARGC=()
+BASH_ARGV=()
+BASH_CMDS=()
+BASH_LINENO=()
+BASH_SOURCE=()
+BASH_VERSINFO=([0]="4" [1]="4" [2]="5" [3]="1" [4]="release" [5]="x86_64-unknown-cygwin")
+BASH_VERSION='4.4.5(1)-release'
+COLUMNS=144
+COMMONPROGRAMFILES='C:\Program Files\Common Files'
+COMPUTERNAME=MIVAIO
+COMSPEC='C:\WINDOWS\system32\cmd.exe'
+CYG_SYS_BASHRC=1
+ChocolateyInstall='C:\ProgramData\chocolatey'
+ChocolateyLastPathUpdate='Sat Jan 14 08:34:39 2017'
+CommonProgramW6432='C:\Program Files\Common Files'
+DEFAULT_DATAFILE=/home/yevaud42/.bash/bash_go_data.txt
+DIRSTACK=()
+DISPLAY=:0.0
+EUID=197609
+EXECIGNORE='*.dll'
+FONTS_TERMINUS='-*-terminus-*-r-*-*-14-*-*-*-*-*-*-*'
+FONT_INPUT_FILE=bash_fonts.txt
+FPS_BROWSER_APP_PROFILE_STRING='Internet Explorer'
+FPS_BROWSER_USER_PROFILE_STRING=Default
+FP_NO_HOST_CHECK=NO
+GO_LIST=([snow]="/cygdrive/e/Archives/snowblind/s2/src/" [win]="/cygdrive/c/Users/Michael/" [proj]="\$HOME/sudoku/" [sudoku]="/home/yevaud42/sudoku" [prog]="/cygdrive/c/Program Files/" [progx]="/cygdrive/c/Program Files (x86)/" [src]="\$HOME/src/" [bash]="/home/yevaud42/.bash" [one]="/cygdrive/c/Users/Michael/OneDrive/" )
+GROUPS=()
+HISTFILE=/home/yevaud42/.bash_history
+HISTFILESIZE=500
+HISTSIZE=500
+HOME=/home/yevaud42
+HOMEDRIVE=C:
+HOMEPATH='\Users\Michael'
+HOSTNAME=miVaio
+HOSTTYPE=x86_64
+IFS=
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info
+LANG=en_US.UTF-8
+LINES=44
+LOCALAPPDATA='C:\Users\Michael\AppData\Local'
+LOGONSERVER='\\MIVAIO'
+MACHTYPE=x86_64-unknown-cygwin
+MAILCHECK=60
+NUMBER_OF_PROCESSORS=4
+OLDPWD=/home/yevaud42
+OPTERR=1
+OPTIND=1
+ORIGINAL_PATH='/cygdrive/c/ProgramData/Oracle/Java/javapath:/cygdrive/c/Program Files/Broadcom/Broadcom 802.11 Network Adapter:/cygdrive/c/PROGRAM FILES (X86)/INTEL/ICLS CLIENT:/cygdrive/c/PROGRAM FILES/INTEL/ICLS CLIENT:/cygdrive/c/WINDOWS/SYSTEM32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/SYSTEM32/WBEM:/cygdrive/c/WINDOWS/SYSTEM32/WINDOWSPOWERSHELL/V1.0:/cygdrive/c/PROGRAM FILES/INTEL/INTEL(R) MANAGEMENT ENGINE COMPONENTS/DAL:/cygdrive/c/PROGRAM FILES/INTEL/INTEL(R) MANAGEMENT ENGINE COMPONENTS/IPT:/cygdrive/c/PROGRAM FILES (X86)/INTEL/INTEL(R) MANAGEMENT ENGINE COMPONENTS/DAL:/cygdrive/c/PROGRAM FILES (X86)/INTEL/INTEL(R) MANAGEMENT ENGINE COMPONENTS/IPT:/cygdrive/c/PROGRAM FILES/SONY/VAIO IMPROVEMENT:/cygdrive/c/PROGRAM FILES (X86)/SONY/VAIO BIOS DATA TRANSFER UTILITY:/cygdrive/c/PROGRAM FILES (X86)/SONY/VAIO STARTUP SETTING TOOL:/cygdrive/c/Program Files/WIDCOMM/Bluetooth Software:/cygdrive/c/Program Files/WIDCOMM/Bluetooth Software/syswow64:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/Program Files/Microsoft SQL Server/110/Tools/Binn:/cygdrive/c/Program Files (x86)/Microsoft SDKs/TypeScript/1.0:/cygdrive/c/Program Files/Microsoft SQL Server/120/Tools/Binn:/cygdrive/c/Program Files (x86)/QuickTime/QTSystem:/cygdrive/c/WINDOWS/system32/config/systemprofile/.dnx/bin:/cygdrive/c/Program Files/Microsoft DNX/Dnvm:/cygdrive/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit:/cygdrive/c/Program Files/Git/cmd:/cygdrive/c/Program Files (x86)/Windows Live/Shared:/cygdrive/c/Program Files (x86)/nodejs:/cygdrive/c/Program Files/TortoiseHg:/cygdrive/c/ProgramData/chocolatey/bin:/cygdrive/c/Program Files (x86)/Skype/Phone:/cygdrive/c/Program Files (x86)/Microsoft VS Code/bin:/cygdrive/c/Users/Michael/AppData/Roaming/npm:/cygdrive/c/Users/Michael/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/ProgramData/chocolatey/lib/xyzzy/xyzzy'
+OS=Windows_NT
+OSTYPE=cygwin
+OneDrive='C:\Users\Michael\OneDrive'
+PATH='/usr/local/bin:/usr/bin:/cygdrive/c/ProgramData/Oracle/Java/javapath:/cygdrive/c/Program Files/Broadcom/Broadcom 802.11 Network Adapter:/cygdrive/c/PROGRAM FILES (X86)/INTEL/ICLS CLIENT:/cygdrive/c/PROGRAM FILES/INTEL/ICLS CLIENT:/cygdrive/c/WINDOWS/SYSTEM32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/SYSTEM32/WBEM:/cygdrive/c/WINDOWS/SYSTEM32/WINDOWSPOWERSHELL/V1.0:/cygdrive/c/PROGRAM FILES/INTEL/INTEL(R) MANAGEMENT ENGINE COMPONENTS/DAL:/cygdrive/c/PROGRAM FILES/INTEL/INTEL(R) MANAGEMENT ENGINE COMPONENTS/IPT:/cygdrive/c/PROGRAM FILES (X86)/INTEL/INTEL(R) MANAGEMENT ENGINE COMPONENTS/DAL:/cygdrive/c/PROGRAM FILES (X86)/INTEL/INTEL(R) MANAGEMENT ENGINE COMPONENTS/IPT:/cygdrive/c/PROGRAM FILES/SONY/VAIO IMPROVEMENT:/cygdrive/c/PROGRAM FILES (X86)/SONY/VAIO BIOS DATA TRANSFER UTILITY:/cygdrive/c/PROGRAM FILES (X86)/SONY/VAIO STARTUP SETTING TOOL:/cygdrive/c/Program Files/WIDCOMM/Bluetooth Software:/cygdrive/c/Program Files/WIDCOMM/Bluetooth Software/syswow64:/cygdrive/c/WINDOWS/system32:/cygdrive/c/WINDOWS:/cygdrive/c/WINDOWS/System32/Wbem:/cygdrive/c/WINDOWS/System32/WindowsPowerShell/v1.0:/cygdrive/c/Program Files/Microsoft SQL Server/110/Tools/Binn:/cygdrive/c/Program Files (x86)/Microsoft SDKs/TypeScript/1.0:/cygdrive/c/Program Files/Microsoft SQL Server/120/Tools/Binn:/cygdrive/c/Program Files (x86)/QuickTime/QTSystem:/cygdrive/c/WINDOWS/system32/config/systemprofile/.dnx/bin:/cygdrive/c/Program Files/Microsoft DNX/Dnvm:/cygdrive/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit:/cygdrive/c/Program Files/Git/cmd:/cygdrive/c/Program Files (x86)/Windows Live/Shared:/cygdrive/c/Program Files (x86)/nodejs:/cygdrive/c/Program Files/TortoiseHg:/cygdrive/c/ProgramData/chocolatey/bin:/cygdrive/c/Program Files (x86)/Skype/Phone:/cygdrive/c/Program Files (x86)/Microsoft VS Code/bin:/cygdrive/c/Users/Michael/AppData/Roaming/npm:/cygdrive/c/Users/Michael/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/ProgramData/chocolatey/lib/xyzzy/xyzzy:/usr/lib/lapack'
+PATHEXT='.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+PIPESTATUS=([0]="0")
+PPID=9112
+PRINTER='Michael'\''s Printer'
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER='Intel64 Family 6 Model 69 Stepping 1, GenuineIntel'
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=4501
+PROFILEREAD=true
+PROGRAMFILES='C:\Program Files'
+PS1=$'\\[\\e]2;\\u@\\H (\\@) \\w\\a\\e[32;1m\\]\\[\\e[34;1m\\]\\u@\\h \\w\\n#\\# (\\t) j=\\j ../\\W $>\\[\E(B\E[m\\]\\[\\e[0m\\]'
+PS1_POSTFIX=$'$>\\[\E(B\E[m\\]\\[\\e[0m\\]'
+PS1_PREFIX='\[\e]2;\u@\H (\@) \w\a\e[32;1m\]'
+PS2='> '
+PS4='+ '
+PSModulePath='C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\'
+PUBLIC='C:\Users\Public'
+PWD=/home/yevaud42/.bash
+ProgramData='C:\ProgramData'
+ProgramW6432='C:\Program Files'
+SESSIONNAME=Console
+SHELL=/bin/bash
+SHELLOPTS=braceexpand:emacs:errtrace:functrace:hashall:histexpand:history:interactive-comments:monitor
+SHLVL=1
+SYSTEMDRIVE=C:
+SYSTEMROOT='C:\WINDOWS'
+TEMP=/tmp
+TERM=xterm-256color
+TMP=/tmp
+TZ=America/New_York
+UID=197609
+USER=yevaud42
+USERDOMAIN=MIVAIO
+USERDOMAIN_ROAMINGPROFILE=MIVAIO
+USERNAME=yevaud42
+USERPROFILE='C:\Users\Michael'
+VS110COMNTOOLS='C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\'
+VS120COMNTOOLS='C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\'
+VS140COMNTOOLS='C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\'
+VSSDK140Install='C:\Program Files (x86)\Microsoft Visual Studio 14.0\VSSDK\'
+WINDIR='C:\WINDOWS'
+_=set
+configsetroot='C:\WINDOWS\ConfigSetRoot'
+key=one
+line=
+.go () 
+{ 
+    local path;
+    local name="${1,,?}";
+    if [[ -z "$name" || "$name" = "help" || "$name" = '?' ]]; then
+        .go_usage;
+        return 0;
+    fi;
+    if [ "$name" = "load" ]; then
+        .go_load $2;
+        return 0;
+    fi;
+    if [ "$name" = "save" ]; then
+        .go_save $2;
+        return 0;
+    fi;
+    if [ "$name" = "list" ]; then
+        .go_list;
+        return 0;
+    fi;
+    if [ "$name" = "add" ]; then
+        .go_add $2 $3;
+        return 0;
+    fi;
+    .go_invoke "$name"
+}
+.go_add () 
+{ 
+    local name="${1,,?}";
+    local path="$2";
+    if [ -z "$name" ]; then
+        echo "Missing alias name.  Should be a single word, no whitespace.";
+        .go_usage "add";
+        return 0;
+    fi;
+    if [ -z "path" ]; then
+        echo "Missing alias location.   Should be a shell-compatible pathname.  ";
+        .go_usage "add";
+        return 0;
+    fi;
+    GO_LIST[$name]=$path;
+    .go_save;
+    return 0
+}
+.go_invoke () 
+{ 
+    local name="${1,,?}";
+    local path=${GO_LIST[$name]};
+    local old_ifs=${IFS};
+    if [ -z "$path" ]; then
+        echo;
+        echo "[ERROR] - Invalid destination name.";
+        echo "     No go alias '$name' exists.";
+        echo "     Use the 'add' command to add an alias, or";
+        echo "     the 'list' command to see the list of available aliases.";
+        echo "";
+        return 0;
+    fi;
+    if [ -n "$path" ]; then
+        eval "truepath=\"$path\"";
+        if [ -x "$truepath" ]; then
+            echo "New Location: '$truepath'.";
+            eval "cd \"$truepath\"";
+        else
+            echo "Destination '$path' not valid..";
+            echo "(expanded to: '$truepath')";
+        fi;
+    fi
+}
+.go_list () 
+{ 
+    local old_ifs=${IFS};
+    echo "The following ${#GO_LIST[*]} aliases are defined:";
+    IFS=" ";
+    for key in ${!GO_LIST[*]};
+    do
+        printf "%10s  = %s\n" "$key" "${GO_LIST[$key]}";
+    done;
+    IFS=${old_ifs};
+    return 0
+}
+.go_load () 
+{ 
+    local datafile=$1;
+    local count=0;
+    if [ -z "$datafile" ]; then
+        datafile="$DEFAULT_DATAFILE";
+    fi;
+    echo "Loading destinations from file: '$datafile'.";
+    local old_ifs=${IFS};
+    while IFS='' read -r line || [[ -n "$line" ]]; do
+        if [[ "${line[0]}" == \#* ]]; then
+            continue;
+        fi;
+        IFS='=';
+        local array=($line);
+        local key=${array[0]};
+        local path=${array[1]};
+        if [ -n "$path" ]; then
+            GO_LIST[$key]=$path;
+            count=`expr $count + 1`;
+        fi;
+    done < "$datafile";
+    echo "$count destinations loaded...";
+    IFS=$oldIFS
+}
+.go_save () 
+{ 
+    local datafile="$1";
+    local old_ifs=${IFS};
+    if [ -z "$datafile" ]; then
+        datafile="$DEFAULT_DATAFILE";
+    fi;
+    touch $datafile;
+    if [ !(-f "$datafile") ]; then
+        echo "Error creating datafile '$datafile'.";
+        return -1;
+    fi;
+    echo "#" > $datafile;
+    echo -n "# Timestamp: " >> $datafile;
+    date >> $datafile;
+    echo "#" >> $datafile;
+    echo "# This file defines the array of defined aliases usee by the" >> $datafile;
+    echo "# '.go' shell command.  It is read in by the go shell script" >> $datafile;
+    echo "# on initialization, and is written to by the 'save' command." >> $datafile;
+    echo "# An automatic save is also invoked when using the 'add'" >> $datafile;
+    echo "# and 'remove' commands, to ensure the datafile matches the " >> $datafile;
+    echo "# state of the alias list." >> $datafile;
+    echo "#" >> $datafile;
+    echo "" >> $datafile;
+    IFS=" ";
+    for key in ${!GO_LIST[*]};
+    do
+        printf "%s=%s\n" "$key" "${GO_LIST[$key]}" >> $datafile;
+    done;
+    IFS=${old_ifs};
+    echo "Wrote ${#GO_LIST[*]} aliases to file: '$datafile'.";
+    return 0
+}
+.go_usage () 
+{ 
+    local topic="${1,,?}";
+    if [[ -z "$topic" || "$topic" = "help" ]]; then
+        cat  <<EOF
+Usage: .go [command] [arguments]
+
+  .go | .go help               Print usage information, and display number of stored aliases.
+  .go <alias>                  Change working directory to the folder associated with the alias
+  .go list                     Print list of aliases and associated locations to stdout
+  .go add <alias> <location>   Add an alias to the collection, and saves the result to the datafile.
+  .go remove <alias>           Remove an alias from the collection, and update the datafile.
+  .go load [datafile]          resets the 
+  .go save [datafile]          Save the .go aliases to file.  If [datafile] is specified, the data is
+                               written to the indicated file instead of DEFAULT_DATAFILE.
+EOF
+
+        printf "\n  There are currently %d aliases defined.\n" ${#GO_LIST[*]}
+        return 0;
+    fi;
+    if [ "$topic" = "add" ]; then
+        echo "   Usage: ";
+        echo "     .go add <alias> <location>";
+        echo "   Where: ";
+        echo "     <alias> is single word name, without whitespace";
+        echo "     <location> is the pathanme to expand upon execution of alias.";
+        echo "   Notes:";
+        echo "     Variables in the pathname are evaluated each time the command is used,";
+        echo "     allowing the user to modify their values as desired between invocations.";
+        return 0;
+    fi
+}
+cd_func () 
+{ 
+    local x2 the_new_dir adir index;
+    local -i cnt;
+    if [[ $1 == "--" ]]; then
+        dirs -v;
+        return 0;
+    fi;
+    the_new_dir=$1;
+    [[ -z $1 ]] && the_new_dir=$HOME;
+    if [[ ${the_new_dir:0:1} == '-' ]]; then
+        index=${the_new_dir:1};
+        [[ -z $index ]] && index=1;
+        adir=$(dirs +$index);
+        [[ -z $adir ]] && return 1;
+        the_new_dir=$adir;
+    fi;
+    [[ ${the_new_dir:0:1} == '~' ]] && the_new_dir="${HOME}${the_new_dir:1}";
+    pushd "${the_new_dir}" > /dev/null;
+    [[ $? -ne 0 ]] && return 1;
+    the_new_dir=$(pwd);
+    popd -n +11 2> /dev/null > /dev/null;
+    for ((cnt=1; cnt <= 10; cnt++))
+    do
+        x2=$(dirs +${cnt} 2>/dev/null);
+        [[ $? -ne 0 ]] && return 0;
+        [[ ${x2:0:1} == '~' ]] && x2="${HOME}${x2:1}";
+        if [[ "${x2}" == "${the_new_dir}" ]]; then
+            popd -n +$cnt 2> /dev/null > /dev/null;
+            cnt=cnt-1;
+        fi;
+    done;
+    return 0
+}
+font_add () 
+{ 
+    echo "font_add"
+}
+font_load () 
+{ 
+    local FONTLIST;
+    local entry;
+    while read entry; do
+        echo "Processing font alias: '$entry'.";
+        name="";
+        for f in $entry;
+        do
+            if [ "$name" = "" ]; then
+                echo "name=$f";
+                name="$f";
+            else
+                echo "val=$f";
+                val="$f";
+            fi;
+        done;
+        echo "name=val, $name=$val.";
+        echo "export ${\"$FONT_$name\"}=\"$val\"";
+        export ${"$FONT_$name"}="$val";
+    done < $FONT_INPUT_FILE
+}
+profile_d () 
+{ 
+    _LC_ALL_SET_="${LC_ALL+set}";
+    _LC_SAVE_="${LC_ALL-null}";
+    LC_ALL=C;
+    if [ "${_LC_SAVE_}" = "null" ]; then
+        for file in /etc/profile.d/*.$1;
+        do
+            [ -e "${file}" ] && . "${file}";
+        done;
+        unset LC_ALL;
+    else
+        for file in /etc/profile.d/*.$1;
+        do
+            [ -e "${file}" ] && LC_ALL="${_LC_SAVE_}" . "${file}";
+        done;
+        LC_ALL="${_LC_SAVE_}";
+    fi;
+    unset file;
+    unset _LC_ALL_SET_;
+    unset _LC_SAVE_
+}
+settitle () 
+{ 
+    echo -ne "\e]2;$@\a\e]1;$@\a"
+}

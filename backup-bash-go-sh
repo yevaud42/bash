@@ -1,0 +1,133 @@
+#!/usr/bin/bash -f
+#
+# This file implements the ".go" command, which allows the user
+# to maintain a set of aliases for directory paths.  it provides
+# the following facilities:
+#
+# .go add <alias> <location>   # Adds an alias to the collection... stored in a file
+# .go remove <alias>           # Removes an alias from the collection.
+# .go list                     # Prints list of aliases and destination folders to stdout
+# .go <alias>                  # change working directory to the folder associated with the alias
+#
+
+declare -x GO_LIST
+
+#
+# Load in the alias list from file.  Notes on code to read file line by line:
+# 
+# *  IFS='' (or IFS=) prevents leading/trailing whitespace from being trimmed.
+# *  -r prevents backslash escapes from being interpreted.
+# *  "|| [[ -n $line ]]" prevents the last line from being ignored if it doesn't end with
+#    a \n (since read returns a non-zero exit code when it encounters EOF).#
+function .go_load()
+{
+    local datafile=$1
+    
+    declare -x GO_LIST
+    while IFS='' read -r line || [[ -n "$line" ]]; do
+	if [ "${line:0,1}" = "#" ] ; then
+	    echo "Skipping line: '$line'.";
+	    continue;
+	fi
+	echo "Processing line: '$line'.";
+	IFS=', ' read -r -a array <<< "$line";
+	local key=${array[0]}
+	local path=$(array[1])
+	${GO_LIST[$key]} = "$path"
+    done < "$datafile"    
+}
+
+
+#
+# This is the main command, which allows the user to enter the .go command
+# along with a specified alias to change the working directory to the
+# folder previously associated with that alias.
+#
+# There are two reserved alias names that actually implement commands used
+# to manage the alias list.  These are 'list', 'add', and 'remove'.  These
+# values are reserved for the commands they implement, and thus are not valid
+# as alias names to be associated with a destination folder.
+#
+function .go()
+{
+    local path
+    local name="${1,,?}"
+
+    if [ -z "$name" ] ; then
+    	echo "This command allows the shell user to hich allows the user"
+    	echo " to maintain a set of aliases for directory paths.  it provides"
+	echo " the following facilities:"
+	echo "" 
+	echo "   .go add <alias> <location>"
+	echo "   .go del <alias>"
+	echo "   .go list"
+	echo "   .go <alias>"
+	echo ""
+	return 0;
+    fi
+    if [ "$name" = "list" ] ; then
+	echo "The following aliases are defined:"
+	for key in ${!GO_LIST[*]} ; do
+	    echo "    '$key' -> '${GO_LIST[$key]}'.";
+	done
+	return 0;
+    fi
+    path=${GO_LIST[$name]};
+    if [ -z "$path" ] ; then
+	echo 
+	echo "[ERROR] - Invalid destination name."
+	echo "     No go alias '$name' exists."
+	echo "     Use the 'add' command to add an alias, or"
+	echo "     the 'list' command to see the list of available aliases."
+	echo ""
+	return 0;
+    fi
+    if [ -n "$path" ]; then
+	if [ -x "$path" ]; then
+	    echo "Going to: '$path'." ;
+	    cd "$path"
+	else
+	    echo "Destination '$path' does not exist.";
+	fi
+    fi
+
+}
+
+function old_go() 
+{
+    local path
+    local name=${1,,?};
+
+    if [ "$name" = "win" ] ; then
+	path="/cygdrive/c/Users/Michael/";
+    elif [ "$name" = "one" ] ; then
+	path="/cygdrive/c/Users/Michael/OneDrive";
+    elif [ "$name" = "snow" ] ; then
+	path="/cygdrive/e/Archives/snowblind/s2/src";
+    elif [ "$name" = "prog" ] ; then
+	path="/cygdrive/c/Program Files/";
+    elif [ "$name" = "progx" ] ; then
+	path="/cygdrive/c/Program Files (x86)";
+    elif [ "$name" = "proj" ] ; then
+	path="$HOME/sudoku";
+    else
+    	echo "This command allows the shell user to hich allows the user"
+    	echo " to maintain a set of aliases for directory paths.  it provides"
+	echo " the following facilities:"
+	echo "" 
+	echo "   .go add <alias> <location>"
+	echo "   .go del <alias>"
+	echo "   .go list"
+	echo "   .go <alias>"
+	echo ""
+    fi
+    if [ -n "$path" ]; then
+	if [ -x "$path" ]; then
+	    echo "Going to: '$path'." ;
+	    cd "$path"
+	else
+	    echo "Destination '$path' does not exist.";
+	fi
+    fi
+}
+

@@ -1,0 +1,5 @@
+TERMINUS "-*-terminus-*-r-*-*-14-*-*-*-*-*-*-*"
+RK14 "rk14"
+small "6x10"
+medium "7x14"
+large "rk24"

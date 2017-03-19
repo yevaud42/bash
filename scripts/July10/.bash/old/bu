@@ -1,0 +1,124 @@
+# ~/.bash_logout: executed by bash(1) when login shell exits.
+
+# when leaving the console clear the screen to increase privacy
+
+
+echo "  >  Loading .bash_util..."
+
+function .consoleHelp ()
+{
+	echo "  -help:  Display this message"
+	echo "  -font <fontName> : Set font for console.  Default is Lat2-VGA8"
+	echo "  -fontlist : List fonts available for -font option."
+	echo "  -reset:  Reset the console when things go bad..."
+	echo "  -probe:  Probe available modes with vbaprobe.";
+	echo ""
+}
+
+function .console ()
+{
+	if [ $# -lt 1 ]; then
+		echo "ERROR:  Invalid usage.";
+		return .consoleHelp ;
+	fi
+
+
+	local opt = $1
+	
+	if [ $opt[0]='-' & $opt[1]='-' ]; then
+		$opt = $opt[2-$#opt]
+	fi
+
+	case "$opt" in 
+	-help)
+		return .consoleHelp ;
+		;;
+	-font|--font)
+		setfont /usr/share/consolefonts/$2
+		;;
+	*)
+		echo "ERROR:  Unknown option: $opt"
+		return .consoleHelp ;
+		;;
+	esac
+	
+
+}
+
+function .lsOpt ()
+{
+	if [ $# != 1 ]; then
+		echo "Invalid usage.  Should be .lsOpt <optionName> "
+		echo "Where optionName can be:"
+		echo "    color		:	Turn color on or off in the output"
+		echo "    groupDirs :	Group folders in output listing."
+		return 0;
+	fi
+
+	local optName=$1
+	local oldOpts=$_LSOPTS
+	local newOpts=$_LSOPTS
+	# export _LSOPTS='--group -X -F -h -A '
+
+	case "$optName" in
+	color)
+		newOpts='-G':
+		newOpts='--color=always';
+		;;
+	groupFold*|gFold*)
+		newOpts='-G'
+		;;
+	*)
+		;;
+	esac
+
+	return 1
+}
+
+#
+# Info:  Checks the $TERM environment variable to decide if
+#        the terminal we are running in support color escape codes
+# Returns:
+#   - Returns success (0) if terminal is known and it supports color 
+#   - Returns failure (-1) if terminal is not known or is known to be non-color
+#	
+function .utilTerminalHasColor ()
+{
+	case "$TERM" in
+	xterm*|rxvt*|uxterm*|konsole*|terminal*|*terminal)
+		echo "Terminal $TERM is assumed to support COLOR..."
+		return 0; # Note: 0 is success in shell programming conditionals
+		;;
+	*)
+		echo "Terminal $TERM is assumed to NOT support COLOR..."
+		return -1 ; # Note that non-zero is failure in shell programming conditionals
+		;;
+	esac
+}
+
+
+#
+# Check to see if this is a Mac.  Right now this is done in a stupid and bad way,
+# but it will do for my setup and I have no plans to publish this stuff anytime soon. :)
+#
+# Returns:  0 if this is a Mac as far as we know.
+# Returns: -1 if we tyhink this is NOT a Mac..
+#
+function .utilAppleCheck ()
+{
+	if [[ -x /Applications/ ]] ; then
+		if ($_APPLECHECK) ; then
+			echo "    >> NOTE:  A Quick check seems to indicate this is an Apple box.  Yay."	
+		fi
+		export _APPLECHECK="Apple";
+		return 0;
+	else
+		export _APPLECHECK="Unknown";
+		return -1;
+	fi
+}
+
+
+#if [ "$SHLVL" = 1 ]; then
+#    [ -x /usr/bin/clear_console ] && /usr/bin/clear_console -q
+#fi

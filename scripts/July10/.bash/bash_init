@@ -1,0 +1,48 @@
+#!/bin/bash -f
+# Load my customizations and related resources after initialize
+
+##################################################################
+# Before anything else, add local user modifications to the PATH
+# environment variable (used for exe searches, as well as other 
+# tasks for some unix utilities)
+#
+if [ -f ~/.bash/bash_path ]; then
+	echo "  >  Adjusting PATH to include user settings..."
+	. ~/.bash/bash_path
+fi
+
+# Load the core functions that I assume any bash environment of mine will
+# have available.  This includes things like standardized functions for
+# printing warning and error messages, handing parameters in a standard
+# fashion, and any core functions that I find essential, such as trimming
+# a string or what have you.
+if [ -f ~/.bash/bash_core ]; then
+	echo "  >  Loading core functionality for personalized shell..."
+	. ~/.bash/bash_core
+fi
+
+
+# Load in the utility library, which should be there for anyt of my script
+# files to use, sicne it forms a baseline of always-available fucntions for me
+if [ -f ~/.bash/bash_util ]; then
+	echo "  >  Loading personal utility functions..."
+	. ~/.bash/bash_util
+fi
+
+# load in the cuSTomization scripts... including
+# custom aliases, prompt customization, etc..
+if [ -f ~/.bash/bash_custom ]; then
+	echo "  >  Finalizing customization of shell now..."
+    . ~/.bash/bash_custom
+fi
+
+# Finally, load in my scripts by checking for the
+# file .bash_scripts in my home folder.. this file will ahndle
+# the loading of the various scripts I might make use of when using
+# the shell.
+
+if [ -f ~/.bash/bash_scripts ]; then
+	echo "  >  Loading support scripts for use..."
+	. ~/.bash/bash_scripts
+fi
+
